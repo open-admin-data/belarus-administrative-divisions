@@ -1,0 +1,45 @@
+{
+  "id": "BY001013",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pinsk",
+    "en": "Pinsk",
+    "slug": "pinsk-by001013"
+  },
+  "code": {
+    "id": "BY001013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.202",
+    "lon": "26.346"
+  },
+  "metadata": {},
+  "source": {}
+}

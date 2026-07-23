@@ -1,0 +1,45 @@
+{
+  "id": "BY001014",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pruzhany",
+    "en": "Pruzhany",
+    "slug": "pruzhany-by001014"
+  },
+  "code": {
+    "id": "BY001014",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.69",
+    "lon": "24.319"
+  },
+  "metadata": {},
+  "source": {}
+}

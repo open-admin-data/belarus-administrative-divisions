@@ -1,0 +1,45 @@
+{
+  "id": "BY006009",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hotimsk",
+    "en": "Hotimsk",
+    "slug": "hotimsk-by006009"
+  },
+  "code": {
+    "id": "BY006009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY006",
+    "level": 1,
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.408",
+    "lon": "32.564"
+  },
+  "metadata": {},
+  "source": {}
+}

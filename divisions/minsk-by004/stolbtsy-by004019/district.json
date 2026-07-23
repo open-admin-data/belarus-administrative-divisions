@@ -1,0 +1,45 @@
+{
+  "id": "BY004019",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Stolbtsy",
+    "en": "Stolbtsy",
+    "slug": "stolbtsy-by004019"
+  },
+  "code": {
+    "id": "BY004019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.603",
+    "lon": "26.732"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BY004014",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Puhovichi",
+    "en": "Puhovichi",
+    "slug": "puhovichi-by004014"
+  },
+  "code": {
+    "id": "BY004014",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.47",
+    "lon": "28.021"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BY007016",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sharkovschina",
+    "en": "Sharkovschina",
+    "slug": "sharkovschina-by007016"
+  },
+  "code": {
+    "id": "BY007016",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY007",
+    "level": 1,
+    "name": {
+      "local": "Віцебская",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.328",
+    "lon": "27.393"
+  },
+  "metadata": {},
+  "source": {}
+}

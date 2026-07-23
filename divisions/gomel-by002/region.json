@@ -1,0 +1,33 @@
+{
+  "id": "BY002",
+  "level": 1,
+  "level_name": {
+    "local": "Вобласць",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Гомельская",
+    "en": "Gomel",
+    "slug": "gomel-by002"
+  },
+  "code": {
+    "id": "BY002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.305",
+    "lon": "29.476"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/by/regions/gomel-by002/",
+    "api": "https://openadmindata.org/api/by/"
+  }
+}

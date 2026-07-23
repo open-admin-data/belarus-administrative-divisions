@@ -1,0 +1,992 @@
+[
+  {
+    "id": "BY004001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berezino",
+      "en": "Berezino",
+      "slug": "berezino-by004001"
+    },
+    "code": {
+      "id": "BY004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.821",
+      "lon": "29.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Borisov",
+      "en": "Borisov",
+      "slug": "borisov-by004002"
+    },
+    "code": {
+      "id": "BY004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.307",
+      "lon": "28.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cherven",
+      "en": "Cherven",
+      "slug": "cherven-by004003"
+    },
+    "code": {
+      "id": "BY004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.757",
+      "lon": "28.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzerzhinsk",
+      "en": "Dzerzhinsk",
+      "slug": "dzerzhinsk-by004004"
+    },
+    "code": {
+      "id": "BY004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.675",
+      "lon": "27.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kletsk",
+      "en": "Kletsk",
+      "slug": "kletsk-by004005"
+    },
+    "code": {
+      "id": "BY004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.915",
+      "lon": "26.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kopyl",
+      "en": "Kopyl",
+      "slug": "kopyl-by004006"
+    },
+    "code": {
+      "id": "BY004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.075",
+      "lon": "27.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krupki",
+      "en": "Krupki",
+      "slug": "krupki-by004007"
+    },
+    "code": {
+      "id": "BY004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.334",
+      "lon": "29.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Logojsk",
+      "en": "Logojsk",
+      "slug": "logojsk-by004008"
+    },
+    "code": {
+      "id": "BY004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.391",
+      "lon": "27.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lyuban",
+      "en": "Lyuban",
+      "slug": "lyuban-by004009"
+    },
+    "code": {
+      "id": "BY004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.728",
+      "lon": "28.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Minsk",
+      "en": "Minsk",
+      "slug": "minsk-by004010"
+    },
+    "code": {
+      "id": "BY004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.926",
+      "lon": "27.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mjadel",
+      "en": "Mjadel",
+      "slug": "mjadel-by004011"
+    },
+    "code": {
+      "id": "BY004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.785",
+      "lon": "27.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Molodechno",
+      "en": "Molodechno",
+      "slug": "molodechno-by004012"
+    },
+    "code": {
+      "id": "BY004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.244",
+      "lon": "26.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nesvizh",
+      "en": "Nesvizh",
+      "slug": "nesvizh-by004013"
+    },
+    "code": {
+      "id": "BY004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.232",
+      "lon": "26.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Puhovichi",
+      "en": "Puhovichi",
+      "slug": "puhovichi-by004014"
+    },
+    "code": {
+      "id": "BY004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.47",
+      "lon": "28.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Slutsk",
+      "en": "Slutsk",
+      "slug": "slutsk-by004015"
+    },
+    "code": {
+      "id": "BY004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.117",
+      "lon": "27.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Smolevichi",
+      "en": "Smolevichi",
+      "slug": "smolevichi-by004016"
+    },
+    "code": {
+      "id": "BY004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.982",
+      "lon": "28.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Soligorsk",
+      "en": "Soligorsk",
+      "slug": "soligorsk-by004017"
+    },
+    "code": {
+      "id": "BY004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.657",
+      "lon": "27.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004018",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "St.Dorogi",
+      "en": "St.Dorogi",
+      "slug": "stdorogi-by004018"
+    },
+    "code": {
+      "id": "BY004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.064",
+      "lon": "28.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004019",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stolbtsy",
+      "en": "Stolbtsy",
+      "slug": "stolbtsy-by004019"
+    },
+    "code": {
+      "id": "BY004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.603",
+      "lon": "26.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004020",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uzda",
+      "en": "Uzda",
+      "slug": "uzda-by004020"
+    },
+    "code": {
+      "id": "BY004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.474",
+      "lon": "27.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004021",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vilejka",
+      "en": "Vilejka",
+      "slug": "vilejka-by004021"
+    },
+    "code": {
+      "id": "BY004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.486",
+      "lon": "27.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004022",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Volozhin",
+      "en": "Volozhin",
+      "slug": "volozhin-by004022"
+    },
+    "code": {
+      "id": "BY004022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.02",
+      "lon": "26.757"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

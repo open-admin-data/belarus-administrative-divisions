@@ -1,0 +1,64 @@
+# Belarus Administrative Divisions
+
+> Open dataset of Belarus's administrative hierarchy:
+> 7 regions, 119 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 7
+- Total districts: 119
+- Coordinates: included (all levels)
+- Last updated: 2026-07-23
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/data/all-region.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Brest](https://github.com/open-admin-data/belarus-administrative-divisions/tree/main/divisions/brest-by001/) — 16 districts
+- [Gomel](https://github.com/open-admin-data/belarus-administrative-divisions/tree/main/divisions/gomel-by002/) — 21 districts
+- [Grodno](https://github.com/open-admin-data/belarus-administrative-divisions/tree/main/divisions/grodno-by003/) — 17 districts
+- [Minsk](https://github.com/open-admin-data/belarus-administrative-divisions/tree/main/divisions/minsk-by004/) — 22 districts
+- [Minsk City](https://github.com/open-admin-data/belarus-administrative-divisions/tree/main/divisions/minsk-city-by005/) — 1 districts
+- [Mogilev](https://github.com/open-admin-data/belarus-administrative-divisions/tree/main/divisions/mogilev-by006/) — 21 districts
+- [Vitebsk](https://github.com/open-admin-data/belarus-administrative-divisions/tree/main/divisions/vitebsk-by007/) — 21 districts
+
+## Per-Region Full Data
+
+- [Brest](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/docs/llms-full/brest-by001.txt)
+- [Gomel](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/docs/llms-full/gomel-by002.txt)
+- [Grodno](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/docs/llms-full/grodno-by003.txt)
+- [Minsk](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/docs/llms-full/minsk-by004.txt)
+- [Minsk City](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/docs/llms-full/minsk-city-by005.txt)
+- [Mogilev](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/docs/llms-full/mogilev-by006.txt)
+- [Vitebsk](https://raw.githubusercontent.com/open-admin-data/belarus-administrative-divisions/main/docs/llms-full/vitebsk-by007.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Belarus Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/belarus-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

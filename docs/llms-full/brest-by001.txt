@@ -1,0 +1,89 @@
+# Brest — Belarus Administrative Divisions
+
+> 16 districts
+> Code: BY001
+> Coordinates: 52.442, 25.197
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Districts
+
+### Baranovichi
+
+Code: BY001001, Coordinates: 53.111, 25.889
+
+
+### Bereza
+
+Code: BY001002, Coordinates: 52.518, 25.036
+
+
+### Brest
+
+Code: BY001003, Coordinates: 51.94, 23.756
+
+
+### Drogichin
+
+Code: BY001004, Coordinates: 52.166, 25.106
+
+
+### Gancevichi
+
+Code: BY001005, Coordinates: 52.68, 26.517
+
+
+### Ivacevichi
+
+Code: BY001006, Coordinates: 52.717, 25.466
+
+
+### Ivanovo
+
+Code: BY001007, Coordinates: 52.199, 25.63
+
+
+### Kamenec
+
+Code: BY001008, Coordinates: 52.44, 23.69
+
+
+### Kobrin
+
+Code: BY001009, Coordinates: 52.178, 24.519
+
+
+### Ljahovichi
+
+Code: BY001010, Coordinates: 52.916, 26.183
+
+
+### Luninec
+
+Code: BY001011, Coordinates: 52.433, 26.859
+
+
+### Malorita
+
+Code: BY001012, Coordinates: 51.836, 24.094
+
+
+### Pinsk
+
+Code: BY001013, Coordinates: 52.202, 26.346
+
+
+### Pruzhany
+
+Code: BY001014, Coordinates: 52.69, 24.319
+
+
+### Stolin
+
+Code: BY001015, Coordinates: 51.887, 26.987
+
+
+### Zhabinka
+
+Code: BY001016, Coordinates: 52.212, 24.05
+
+

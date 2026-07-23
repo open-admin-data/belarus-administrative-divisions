@@ -1,0 +1,33 @@
+{
+  "id": "BY006",
+  "level": 1,
+  "level_name": {
+    "local": "Вобласць",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Магілёўская",
+    "en": "Mogilev",
+    "slug": "mogilev-by006"
+  },
+  "code": {
+    "id": "BY006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.574",
+    "lon": "30.702"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/by/regions/mogilev-by006/",
+    "api": "https://openadmindata.org/api/by/"
+  }
+}

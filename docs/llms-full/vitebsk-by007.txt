@@ -1,0 +1,114 @@
+# Vitebsk — Belarus Administrative Divisions
+
+> 21 districts
+> Code: BY007
+> Coordinates: 55.192, 28.822
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Districts
+
+### Beshenkovichi
+
+Code: BY007001, Coordinates: 54.976, 29.324
+
+
+### Braslav
+
+Code: BY007002, Coordinates: 55.543, 26.869
+
+
+### Chashniki
+
+Code: BY007003, Coordinates: 54.766, 29.039
+
+
+### Dokshitsy
+
+Code: BY007004, Coordinates: 54.797, 27.916
+
+
+### Dubrovno
+
+Code: BY007005, Coordinates: 54.61, 30.786
+
+
+### Glubokoe
+
+Code: BY007006, Coordinates: 55.11, 27.738
+
+
+### Gorodok
+
+Code: BY007007, Coordinates: 55.572, 30.043
+
+
+### Lepel
+
+Code: BY007008, Coordinates: 54.801, 28.547
+
+
+### Liozno
+
+Code: BY007009, Coordinates: 55.012, 30.557
+
+
+### Miory
+
+Code: BY007010, Coordinates: 55.544, 27.59
+
+
+### Orsha
+
+Code: BY007011, Coordinates: 54.549, 30.118
+
+
+### Polotsk
+
+Code: BY007012, Coordinates: 55.467, 28.723
+
+
+### Postavy
+
+Code: BY007013, Coordinates: 55.096, 26.761
+
+
+### Rossony
+
+Code: BY007014, Coordinates: 55.83, 28.789
+
+
+### Senno
+
+Code: BY007015, Coordinates: 54.754, 29.699
+
+
+### Sharkovschina
+
+Code: BY007016, Coordinates: 55.328, 27.393
+
+
+### Shumilino
+
+Code: BY007017, Coordinates: 55.276, 29.257
+
+
+### Tolochin
+
+Code: BY007018, Coordinates: 54.409, 29.734
+
+
+### Ushachi
+
+Code: BY007019, Coordinates: 55.065, 28.537
+
+
+### Verhnedvinsk
+
+Code: BY007020, Coordinates: 55.823, 27.907
+
+
+### Vitebsk
+
+Code: BY007021, Coordinates: 55.243, 30.162
+
+

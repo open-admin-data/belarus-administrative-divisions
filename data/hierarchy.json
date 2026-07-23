@@ -1,0 +1,1531 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/by/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/belarus-administrative-divisions",
+  "data": [
+    {
+      "id": "BY001",
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      },
+      "code": {
+        "id": "BY001",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "BY001001",
+          "name": {
+            "local": "Baranovichi",
+            "en": "Baranovichi",
+            "slug": "baranovichi-by001001"
+          },
+          "code": {
+            "id": "BY001001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001002",
+          "name": {
+            "local": "Bereza",
+            "en": "Bereza",
+            "slug": "bereza-by001002"
+          },
+          "code": {
+            "id": "BY001002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001003",
+          "name": {
+            "local": "Brest",
+            "en": "Brest",
+            "slug": "brest-by001003"
+          },
+          "code": {
+            "id": "BY001003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001004",
+          "name": {
+            "local": "Drogichin",
+            "en": "Drogichin",
+            "slug": "drogichin-by001004"
+          },
+          "code": {
+            "id": "BY001004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001005",
+          "name": {
+            "local": "Gancevichi",
+            "en": "Gancevichi",
+            "slug": "gancevichi-by001005"
+          },
+          "code": {
+            "id": "BY001005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001006",
+          "name": {
+            "local": "Ivacevichi",
+            "en": "Ivacevichi",
+            "slug": "ivacevichi-by001006"
+          },
+          "code": {
+            "id": "BY001006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001007",
+          "name": {
+            "local": "Ivanovo",
+            "en": "Ivanovo",
+            "slug": "ivanovo-by001007"
+          },
+          "code": {
+            "id": "BY001007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001008",
+          "name": {
+            "local": "Kamenec",
+            "en": "Kamenec",
+            "slug": "kamenec-by001008"
+          },
+          "code": {
+            "id": "BY001008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001009",
+          "name": {
+            "local": "Kobrin",
+            "en": "Kobrin",
+            "slug": "kobrin-by001009"
+          },
+          "code": {
+            "id": "BY001009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001010",
+          "name": {
+            "local": "Ljahovichi",
+            "en": "Ljahovichi",
+            "slug": "ljahovichi-by001010"
+          },
+          "code": {
+            "id": "BY001010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001011",
+          "name": {
+            "local": "Luninec",
+            "en": "Luninec",
+            "slug": "luninec-by001011"
+          },
+          "code": {
+            "id": "BY001011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001012",
+          "name": {
+            "local": "Malorita",
+            "en": "Malorita",
+            "slug": "malorita-by001012"
+          },
+          "code": {
+            "id": "BY001012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001013",
+          "name": {
+            "local": "Pinsk",
+            "en": "Pinsk",
+            "slug": "pinsk-by001013"
+          },
+          "code": {
+            "id": "BY001013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001014",
+          "name": {
+            "local": "Pruzhany",
+            "en": "Pruzhany",
+            "slug": "pruzhany-by001014"
+          },
+          "code": {
+            "id": "BY001014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001015",
+          "name": {
+            "local": "Stolin",
+            "en": "Stolin",
+            "slug": "stolin-by001015"
+          },
+          "code": {
+            "id": "BY001015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY001016",
+          "name": {
+            "local": "Zhabinka",
+            "en": "Zhabinka",
+            "slug": "zhabinka-by001016"
+          },
+          "code": {
+            "id": "BY001016",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BY002",
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      },
+      "code": {
+        "id": "BY002",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "BY002001",
+          "name": {
+            "local": "Bragin",
+            "en": "Bragin",
+            "slug": "bragin-by002001"
+          },
+          "code": {
+            "id": "BY002001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002002",
+          "name": {
+            "local": "Buda-Koshelevo",
+            "en": "Buda-Koshelevo",
+            "slug": "buda-koshelevo-by002002"
+          },
+          "code": {
+            "id": "BY002002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002003",
+          "name": {
+            "local": "Chechersk",
+            "en": "Chechersk",
+            "slug": "chechersk-by002003"
+          },
+          "code": {
+            "id": "BY002003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002004",
+          "name": {
+            "local": "Dobrush",
+            "en": "Dobrush",
+            "slug": "dobrush-by002004"
+          },
+          "code": {
+            "id": "BY002004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002005",
+          "name": {
+            "local": "Elsk",
+            "en": "Elsk",
+            "slug": "elsk-by002005"
+          },
+          "code": {
+            "id": "BY002005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002006",
+          "name": {
+            "local": "Gomel",
+            "en": "Gomel",
+            "slug": "gomel-by002006"
+          },
+          "code": {
+            "id": "BY002006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002007",
+          "name": {
+            "local": "Hojniki",
+            "en": "Hojniki",
+            "slug": "hojniki-by002007"
+          },
+          "code": {
+            "id": "BY002007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002008",
+          "name": {
+            "local": "Kalinkovichi",
+            "en": "Kalinkovichi",
+            "slug": "kalinkovichi-by002008"
+          },
+          "code": {
+            "id": "BY002008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002009",
+          "name": {
+            "local": "Korma",
+            "en": "Korma",
+            "slug": "korma-by002009"
+          },
+          "code": {
+            "id": "BY002009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002010",
+          "name": {
+            "local": "Lelchitsy",
+            "en": "Lelchitsy",
+            "slug": "lelchitsy-by002010"
+          },
+          "code": {
+            "id": "BY002010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002011",
+          "name": {
+            "local": "Loev",
+            "en": "Loev",
+            "slug": "loev-by002011"
+          },
+          "code": {
+            "id": "BY002011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002012",
+          "name": {
+            "local": "Mozyr",
+            "en": "Mozyr",
+            "slug": "mozyr-by002012"
+          },
+          "code": {
+            "id": "BY002012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002013",
+          "name": {
+            "local": "Narovlja",
+            "en": "Narovlja",
+            "slug": "narovlja-by002013"
+          },
+          "code": {
+            "id": "BY002013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002014",
+          "name": {
+            "local": "Oktjabrsky",
+            "en": "Oktjabrsky",
+            "slug": "oktjabrsky-by002014"
+          },
+          "code": {
+            "id": "BY002014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002015",
+          "name": {
+            "local": "Petrikov",
+            "en": "Petrikov",
+            "slug": "petrikov-by002015"
+          },
+          "code": {
+            "id": "BY002015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002016",
+          "name": {
+            "local": "Rechitsa",
+            "en": "Rechitsa",
+            "slug": "rechitsa-by002016"
+          },
+          "code": {
+            "id": "BY002016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002017",
+          "name": {
+            "local": "Rogachev",
+            "en": "Rogachev",
+            "slug": "rogachev-by002017"
+          },
+          "code": {
+            "id": "BY002017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002018",
+          "name": {
+            "local": "Svetlogorsk",
+            "en": "Svetlogorsk",
+            "slug": "svetlogorsk-by002018"
+          },
+          "code": {
+            "id": "BY002018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002019",
+          "name": {
+            "local": "Vetka",
+            "en": "Vetka",
+            "slug": "vetka-by002019"
+          },
+          "code": {
+            "id": "BY002019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002020",
+          "name": {
+            "local": "Zhitkovichi",
+            "en": "Zhitkovichi",
+            "slug": "zhitkovichi-by002020"
+          },
+          "code": {
+            "id": "BY002020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY002021",
+          "name": {
+            "local": "Zhlobin",
+            "en": "Zhlobin",
+            "slug": "zhlobin-by002021"
+          },
+          "code": {
+            "id": "BY002021",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BY003",
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      },
+      "code": {
+        "id": "BY003",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "BY003001",
+          "name": {
+            "local": "Berestovica",
+            "en": "Berestovica",
+            "slug": "berestovica-by003001"
+          },
+          "code": {
+            "id": "BY003001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003002",
+          "name": {
+            "local": "Djatlovo",
+            "en": "Djatlovo",
+            "slug": "djatlovo-by003002"
+          },
+          "code": {
+            "id": "BY003002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003003",
+          "name": {
+            "local": "Grodno",
+            "en": "Grodno",
+            "slug": "grodno-by003003"
+          },
+          "code": {
+            "id": "BY003003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003004",
+          "name": {
+            "local": "Ive",
+            "en": "Ive",
+            "slug": "ive-by003004"
+          },
+          "code": {
+            "id": "BY003004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003005",
+          "name": {
+            "local": "Korelichi",
+            "en": "Korelichi",
+            "slug": "korelichi-by003005"
+          },
+          "code": {
+            "id": "BY003005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003006",
+          "name": {
+            "local": "Lida",
+            "en": "Lida",
+            "slug": "lida-by003006"
+          },
+          "code": {
+            "id": "BY003006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003007",
+          "name": {
+            "local": "Mosty",
+            "en": "Mosty",
+            "slug": "mosty-by003007"
+          },
+          "code": {
+            "id": "BY003007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003008",
+          "name": {
+            "local": "Novogrudok",
+            "en": "Novogrudok",
+            "slug": "novogrudok-by003008"
+          },
+          "code": {
+            "id": "BY003008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003009",
+          "name": {
+            "local": "Oshmjany",
+            "en": "Oshmjany",
+            "slug": "oshmjany-by003009"
+          },
+          "code": {
+            "id": "BY003009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003010",
+          "name": {
+            "local": "Ostrovec",
+            "en": "Ostrovec",
+            "slug": "ostrovec-by003010"
+          },
+          "code": {
+            "id": "BY003010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003011",
+          "name": {
+            "local": "Schuchin",
+            "en": "Schuchin",
+            "slug": "schuchin-by003011"
+          },
+          "code": {
+            "id": "BY003011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003012",
+          "name": {
+            "local": "Slonim",
+            "en": "Slonim",
+            "slug": "slonim-by003012"
+          },
+          "code": {
+            "id": "BY003012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003013",
+          "name": {
+            "local": "Smorgon",
+            "en": "Smorgon",
+            "slug": "smorgon-by003013"
+          },
+          "code": {
+            "id": "BY003013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003014",
+          "name": {
+            "local": "Svisloch",
+            "en": "Svisloch",
+            "slug": "svisloch-by003014"
+          },
+          "code": {
+            "id": "BY003014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003015",
+          "name": {
+            "local": "Volkovysk",
+            "en": "Volkovysk",
+            "slug": "volkovysk-by003015"
+          },
+          "code": {
+            "id": "BY003015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003016",
+          "name": {
+            "local": "Voronovo",
+            "en": "Voronovo",
+            "slug": "voronovo-by003016"
+          },
+          "code": {
+            "id": "BY003016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY003017",
+          "name": {
+            "local": "Zel'va",
+            "en": "Zelva",
+            "slug": "zelva-by003017"
+          },
+          "code": {
+            "id": "BY003017",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BY004",
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      },
+      "code": {
+        "id": "BY004",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "BY004001",
+          "name": {
+            "local": "Berezino",
+            "en": "Berezino",
+            "slug": "berezino-by004001"
+          },
+          "code": {
+            "id": "BY004001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004002",
+          "name": {
+            "local": "Borisov",
+            "en": "Borisov",
+            "slug": "borisov-by004002"
+          },
+          "code": {
+            "id": "BY004002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004003",
+          "name": {
+            "local": "Cherven",
+            "en": "Cherven",
+            "slug": "cherven-by004003"
+          },
+          "code": {
+            "id": "BY004003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004004",
+          "name": {
+            "local": "Dzerzhinsk",
+            "en": "Dzerzhinsk",
+            "slug": "dzerzhinsk-by004004"
+          },
+          "code": {
+            "id": "BY004004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004005",
+          "name": {
+            "local": "Kletsk",
+            "en": "Kletsk",
+            "slug": "kletsk-by004005"
+          },
+          "code": {
+            "id": "BY004005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004006",
+          "name": {
+            "local": "Kopyl",
+            "en": "Kopyl",
+            "slug": "kopyl-by004006"
+          },
+          "code": {
+            "id": "BY004006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004007",
+          "name": {
+            "local": "Krupki",
+            "en": "Krupki",
+            "slug": "krupki-by004007"
+          },
+          "code": {
+            "id": "BY004007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004008",
+          "name": {
+            "local": "Logojsk",
+            "en": "Logojsk",
+            "slug": "logojsk-by004008"
+          },
+          "code": {
+            "id": "BY004008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004009",
+          "name": {
+            "local": "Lyuban",
+            "en": "Lyuban",
+            "slug": "lyuban-by004009"
+          },
+          "code": {
+            "id": "BY004009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004010",
+          "name": {
+            "local": "Minsk",
+            "en": "Minsk",
+            "slug": "minsk-by004010"
+          },
+          "code": {
+            "id": "BY004010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004011",
+          "name": {
+            "local": "Mjadel",
+            "en": "Mjadel",
+            "slug": "mjadel-by004011"
+          },
+          "code": {
+            "id": "BY004011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004012",
+          "name": {
+            "local": "Molodechno",
+            "en": "Molodechno",
+            "slug": "molodechno-by004012"
+          },
+          "code": {
+            "id": "BY004012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004013",
+          "name": {
+            "local": "Nesvizh",
+            "en": "Nesvizh",
+            "slug": "nesvizh-by004013"
+          },
+          "code": {
+            "id": "BY004013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004014",
+          "name": {
+            "local": "Puhovichi",
+            "en": "Puhovichi",
+            "slug": "puhovichi-by004014"
+          },
+          "code": {
+            "id": "BY004014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004015",
+          "name": {
+            "local": "Slutsk",
+            "en": "Slutsk",
+            "slug": "slutsk-by004015"
+          },
+          "code": {
+            "id": "BY004015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004016",
+          "name": {
+            "local": "Smolevichi",
+            "en": "Smolevichi",
+            "slug": "smolevichi-by004016"
+          },
+          "code": {
+            "id": "BY004016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004017",
+          "name": {
+            "local": "Soligorsk",
+            "en": "Soligorsk",
+            "slug": "soligorsk-by004017"
+          },
+          "code": {
+            "id": "BY004017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004018",
+          "name": {
+            "local": "St.Dorogi",
+            "en": "St.Dorogi",
+            "slug": "stdorogi-by004018"
+          },
+          "code": {
+            "id": "BY004018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004019",
+          "name": {
+            "local": "Stolbtsy",
+            "en": "Stolbtsy",
+            "slug": "stolbtsy-by004019"
+          },
+          "code": {
+            "id": "BY004019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004020",
+          "name": {
+            "local": "Uzda",
+            "en": "Uzda",
+            "slug": "uzda-by004020"
+          },
+          "code": {
+            "id": "BY004020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004021",
+          "name": {
+            "local": "Vilejka",
+            "en": "Vilejka",
+            "slug": "vilejka-by004021"
+          },
+          "code": {
+            "id": "BY004021",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY004022",
+          "name": {
+            "local": "Volozhin",
+            "en": "Volozhin",
+            "slug": "volozhin-by004022"
+          },
+          "code": {
+            "id": "BY004022",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BY005",
+      "name": {
+        "local": "Мінск",
+        "en": "Minsk City",
+        "slug": "minsk-city-by005"
+      },
+      "code": {
+        "id": "BY005",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "BY005001",
+          "name": {
+            "local": "Minsk City",
+            "en": "Minsk City",
+            "slug": "minsk-city-by005001"
+          },
+          "code": {
+            "id": "BY005001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BY006",
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      },
+      "code": {
+        "id": "BY006",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "BY006001",
+          "name": {
+            "local": "Belynichi",
+            "en": "Belynichi",
+            "slug": "belynichi-by006001"
+          },
+          "code": {
+            "id": "BY006001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006002",
+          "name": {
+            "local": "Bobrujsk",
+            "en": "Bobrujsk",
+            "slug": "bobrujsk-by006002"
+          },
+          "code": {
+            "id": "BY006002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006003",
+          "name": {
+            "local": "Byhov",
+            "en": "Byhov",
+            "slug": "byhov-by006003"
+          },
+          "code": {
+            "id": "BY006003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006004",
+          "name": {
+            "local": "Chausy",
+            "en": "Chausy",
+            "slug": "chausy-by006004"
+          },
+          "code": {
+            "id": "BY006004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006005",
+          "name": {
+            "local": "Cherikov",
+            "en": "Cherikov",
+            "slug": "cherikov-by006005"
+          },
+          "code": {
+            "id": "BY006005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006006",
+          "name": {
+            "local": "Dribin",
+            "en": "Dribin",
+            "slug": "dribin-by006006"
+          },
+          "code": {
+            "id": "BY006006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006007",
+          "name": {
+            "local": "Glusk",
+            "en": "Glusk",
+            "slug": "glusk-by006007"
+          },
+          "code": {
+            "id": "BY006007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006008",
+          "name": {
+            "local": "Gorki",
+            "en": "Gorki",
+            "slug": "gorki-by006008"
+          },
+          "code": {
+            "id": "BY006008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006009",
+          "name": {
+            "local": "Hotimsk",
+            "en": "Hotimsk",
+            "slug": "hotimsk-by006009"
+          },
+          "code": {
+            "id": "BY006009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006010",
+          "name": {
+            "local": "Kirovsk",
+            "en": "Kirovsk",
+            "slug": "kirovsk-by006010"
+          },
+          "code": {
+            "id": "BY006010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006011",
+          "name": {
+            "local": "Klichev",
+            "en": "Klichev",
+            "slug": "klichev-by006011"
+          },
+          "code": {
+            "id": "BY006011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006012",
+          "name": {
+            "local": "Klimovichi",
+            "en": "Klimovichi",
+            "slug": "klimovichi-by006012"
+          },
+          "code": {
+            "id": "BY006012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006013",
+          "name": {
+            "local": "Kostyukovichi",
+            "en": "Kostyukovichi",
+            "slug": "kostyukovichi-by006013"
+          },
+          "code": {
+            "id": "BY006013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006014",
+          "name": {
+            "local": "Krasnopole",
+            "en": "Krasnopole",
+            "slug": "krasnopole-by006014"
+          },
+          "code": {
+            "id": "BY006014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006015",
+          "name": {
+            "local": "Krichev",
+            "en": "Krichev",
+            "slug": "krichev-by006015"
+          },
+          "code": {
+            "id": "BY006015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006016",
+          "name": {
+            "local": "Krugloe",
+            "en": "Krugloe",
+            "slug": "krugloe-by006016"
+          },
+          "code": {
+            "id": "BY006016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006017",
+          "name": {
+            "local": "Mogilev",
+            "en": "Mogilev",
+            "slug": "mogilev-by006017"
+          },
+          "code": {
+            "id": "BY006017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006018",
+          "name": {
+            "local": "Mstislav",
+            "en": "Mstislav",
+            "slug": "mstislav-by006018"
+          },
+          "code": {
+            "id": "BY006018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006019",
+          "name": {
+            "local": "Osipovichi",
+            "en": "Osipovichi",
+            "slug": "osipovichi-by006019"
+          },
+          "code": {
+            "id": "BY006019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006020",
+          "name": {
+            "local": "Shklov",
+            "en": "Shklov",
+            "slug": "shklov-by006020"
+          },
+          "code": {
+            "id": "BY006020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY006021",
+          "name": {
+            "local": "Slavgorod",
+            "en": "Slavgorod",
+            "slug": "slavgorod-by006021"
+          },
+          "code": {
+            "id": "BY006021",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BY007",
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      },
+      "code": {
+        "id": "BY007",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "BY007001",
+          "name": {
+            "local": "Beshenkovichi",
+            "en": "Beshenkovichi",
+            "slug": "beshenkovichi-by007001"
+          },
+          "code": {
+            "id": "BY007001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007002",
+          "name": {
+            "local": "Braslav",
+            "en": "Braslav",
+            "slug": "braslav-by007002"
+          },
+          "code": {
+            "id": "BY007002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007003",
+          "name": {
+            "local": "Chashniki",
+            "en": "Chashniki",
+            "slug": "chashniki-by007003"
+          },
+          "code": {
+            "id": "BY007003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007004",
+          "name": {
+            "local": "Dokshitsy",
+            "en": "Dokshitsy",
+            "slug": "dokshitsy-by007004"
+          },
+          "code": {
+            "id": "BY007004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007005",
+          "name": {
+            "local": "Dubrovno",
+            "en": "Dubrovno",
+            "slug": "dubrovno-by007005"
+          },
+          "code": {
+            "id": "BY007005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007006",
+          "name": {
+            "local": "Glubokoe",
+            "en": "Glubokoe",
+            "slug": "glubokoe-by007006"
+          },
+          "code": {
+            "id": "BY007006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007007",
+          "name": {
+            "local": "Gorodok",
+            "en": "Gorodok",
+            "slug": "gorodok-by007007"
+          },
+          "code": {
+            "id": "BY007007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007008",
+          "name": {
+            "local": "Lepel",
+            "en": "Lepel",
+            "slug": "lepel-by007008"
+          },
+          "code": {
+            "id": "BY007008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007009",
+          "name": {
+            "local": "Liozno",
+            "en": "Liozno",
+            "slug": "liozno-by007009"
+          },
+          "code": {
+            "id": "BY007009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007010",
+          "name": {
+            "local": "Miory",
+            "en": "Miory",
+            "slug": "miory-by007010"
+          },
+          "code": {
+            "id": "BY007010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007011",
+          "name": {
+            "local": "Orsha",
+            "en": "Orsha",
+            "slug": "orsha-by007011"
+          },
+          "code": {
+            "id": "BY007011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007012",
+          "name": {
+            "local": "Polotsk",
+            "en": "Polotsk",
+            "slug": "polotsk-by007012"
+          },
+          "code": {
+            "id": "BY007012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007013",
+          "name": {
+            "local": "Postavy",
+            "en": "Postavy",
+            "slug": "postavy-by007013"
+          },
+          "code": {
+            "id": "BY007013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007014",
+          "name": {
+            "local": "Rossony",
+            "en": "Rossony",
+            "slug": "rossony-by007014"
+          },
+          "code": {
+            "id": "BY007014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007015",
+          "name": {
+            "local": "Senno",
+            "en": "Senno",
+            "slug": "senno-by007015"
+          },
+          "code": {
+            "id": "BY007015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007016",
+          "name": {
+            "local": "Sharkovschina",
+            "en": "Sharkovschina",
+            "slug": "sharkovschina-by007016"
+          },
+          "code": {
+            "id": "BY007016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007017",
+          "name": {
+            "local": "Shumilino",
+            "en": "Shumilino",
+            "slug": "shumilino-by007017"
+          },
+          "code": {
+            "id": "BY007017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007018",
+          "name": {
+            "local": "Tolochin",
+            "en": "Tolochin",
+            "slug": "tolochin-by007018"
+          },
+          "code": {
+            "id": "BY007018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007019",
+          "name": {
+            "local": "Ushachi",
+            "en": "Ushachi",
+            "slug": "ushachi-by007019"
+          },
+          "code": {
+            "id": "BY007019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007020",
+          "name": {
+            "local": "Verhnedvinsk",
+            "en": "Verhnedvinsk",
+            "slug": "verhnedvinsk-by007020"
+          },
+          "code": {
+            "id": "BY007020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BY007021",
+          "name": {
+            "local": "Vitebsk",
+            "en": "Vitebsk",
+            "slug": "vitebsk-by007021"
+          },
+          "code": {
+            "id": "BY007021",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

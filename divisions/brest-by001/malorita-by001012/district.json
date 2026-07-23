@@ -1,0 +1,45 @@
+{
+  "id": "BY001012",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malorita",
+    "en": "Malorita",
+    "slug": "malorita-by001012"
+  },
+  "code": {
+    "id": "BY001012",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.836",
+    "lon": "24.094"
+  },
+  "metadata": {},
+  "source": {}
+}

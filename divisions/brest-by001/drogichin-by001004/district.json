@@ -1,0 +1,45 @@
+{
+  "id": "BY001004",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Drogichin",
+    "en": "Drogichin",
+    "slug": "drogichin-by001004"
+  },
+  "code": {
+    "id": "BY001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.166",
+    "lon": "25.106"
+  },
+  "metadata": {},
+  "source": {}
+}

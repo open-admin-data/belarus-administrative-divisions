@@ -1,0 +1,45 @@
+{
+  "id": "BY007003",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chashniki",
+    "en": "Chashniki",
+    "slug": "chashniki-by007003"
+  },
+  "code": {
+    "id": "BY007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY007",
+    "level": 1,
+    "name": {
+      "local": "Віцебская",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.766",
+    "lon": "29.039"
+  },
+  "metadata": {},
+  "source": {}
+}

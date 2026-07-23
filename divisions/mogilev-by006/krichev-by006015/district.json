@@ -1,0 +1,45 @@
+{
+  "id": "BY006015",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krichev",
+    "en": "Krichev",
+    "slug": "krichev-by006015"
+  },
+  "code": {
+    "id": "BY006015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY006",
+    "level": 1,
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.731",
+    "lon": "31.688"
+  },
+  "metadata": {},
+  "source": {}
+}

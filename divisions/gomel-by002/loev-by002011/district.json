@@ -1,0 +1,45 @@
+{
+  "id": "BY002011",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Loev",
+    "en": "Loev",
+    "slug": "loev-by002011"
+  },
+  "code": {
+    "id": "BY002011",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY002",
+    "level": 1,
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.993",
+    "lon": "30.72"
+  },
+  "metadata": {},
+  "source": {}
+}

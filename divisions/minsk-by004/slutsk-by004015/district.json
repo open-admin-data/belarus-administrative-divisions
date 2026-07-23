@@ -1,0 +1,45 @@
+{
+  "id": "BY004015",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Slutsk",
+    "en": "Slutsk",
+    "slug": "slutsk-by004015"
+  },
+  "code": {
+    "id": "BY004015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.117",
+    "lon": "27.816"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BY002010",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lelchitsy",
+    "en": "Lelchitsy",
+    "slug": "lelchitsy-by002010"
+  },
+  "code": {
+    "id": "BY002010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY002",
+    "level": 1,
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.735",
+    "lon": "28.093"
+  },
+  "metadata": {},
+  "source": {}
+}

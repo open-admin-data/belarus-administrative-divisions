@@ -1,0 +1,45 @@
+{
+  "id": "BY007005",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dubrovno",
+    "en": "Dubrovno",
+    "slug": "dubrovno-by007005"
+  },
+  "code": {
+    "id": "BY007005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY007",
+    "level": 1,
+    "name": {
+      "local": "Віцебская",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.61",
+    "lon": "30.786"
+  },
+  "metadata": {},
+  "source": {}
+}

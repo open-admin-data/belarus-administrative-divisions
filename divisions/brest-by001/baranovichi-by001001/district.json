@@ -1,0 +1,45 @@
+{
+  "id": "BY001001",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Baranovichi",
+    "en": "Baranovichi",
+    "slug": "baranovichi-by001001"
+  },
+  "code": {
+    "id": "BY001001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.111",
+    "lon": "25.889"
+  },
+  "metadata": {},
+  "source": {}
+}

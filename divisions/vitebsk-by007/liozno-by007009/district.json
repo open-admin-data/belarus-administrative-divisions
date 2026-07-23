@@ -1,0 +1,45 @@
+{
+  "id": "BY007009",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Liozno",
+    "en": "Liozno",
+    "slug": "liozno-by007009"
+  },
+  "code": {
+    "id": "BY007009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY007",
+    "level": 1,
+    "name": {
+      "local": "Віцебская",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.012",
+    "lon": "30.557"
+  },
+  "metadata": {},
+  "source": {}
+}

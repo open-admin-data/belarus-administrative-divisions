@@ -1,0 +1,722 @@
+[
+  {
+    "id": "BY001001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baranovichi",
+      "en": "Baranovichi",
+      "slug": "baranovichi-by001001"
+    },
+    "code": {
+      "id": "BY001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.111",
+      "lon": "25.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bereza",
+      "en": "Bereza",
+      "slug": "bereza-by001002"
+    },
+    "code": {
+      "id": "BY001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.518",
+      "lon": "25.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brest",
+      "en": "Brest",
+      "slug": "brest-by001003"
+    },
+    "code": {
+      "id": "BY001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.94",
+      "lon": "23.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Drogichin",
+      "en": "Drogichin",
+      "slug": "drogichin-by001004"
+    },
+    "code": {
+      "id": "BY001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.166",
+      "lon": "25.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gancevichi",
+      "en": "Gancevichi",
+      "slug": "gancevichi-by001005"
+    },
+    "code": {
+      "id": "BY001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.68",
+      "lon": "26.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ivacevichi",
+      "en": "Ivacevichi",
+      "slug": "ivacevichi-by001006"
+    },
+    "code": {
+      "id": "BY001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.717",
+      "lon": "25.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ivanovo",
+      "en": "Ivanovo",
+      "slug": "ivanovo-by001007"
+    },
+    "code": {
+      "id": "BY001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.199",
+      "lon": "25.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kamenec",
+      "en": "Kamenec",
+      "slug": "kamenec-by001008"
+    },
+    "code": {
+      "id": "BY001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.44",
+      "lon": "23.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kobrin",
+      "en": "Kobrin",
+      "slug": "kobrin-by001009"
+    },
+    "code": {
+      "id": "BY001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.178",
+      "lon": "24.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ljahovichi",
+      "en": "Ljahovichi",
+      "slug": "ljahovichi-by001010"
+    },
+    "code": {
+      "id": "BY001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.916",
+      "lon": "26.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luninec",
+      "en": "Luninec",
+      "slug": "luninec-by001011"
+    },
+    "code": {
+      "id": "BY001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.433",
+      "lon": "26.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malorita",
+      "en": "Malorita",
+      "slug": "malorita-by001012"
+    },
+    "code": {
+      "id": "BY001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.836",
+      "lon": "24.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pinsk",
+      "en": "Pinsk",
+      "slug": "pinsk-by001013"
+    },
+    "code": {
+      "id": "BY001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.202",
+      "lon": "26.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pruzhany",
+      "en": "Pruzhany",
+      "slug": "pruzhany-by001014"
+    },
+    "code": {
+      "id": "BY001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.69",
+      "lon": "24.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stolin",
+      "en": "Stolin",
+      "slug": "stolin-by001015"
+    },
+    "code": {
+      "id": "BY001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.887",
+      "lon": "26.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhabinka",
+      "en": "Zhabinka",
+      "slug": "zhabinka-by001016"
+    },
+    "code": {
+      "id": "BY001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.212",
+      "lon": "24.05"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

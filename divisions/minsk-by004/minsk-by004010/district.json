@@ -1,0 +1,45 @@
+{
+  "id": "BY004010",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Minsk",
+    "en": "Minsk",
+    "slug": "minsk-by004010"
+  },
+  "code": {
+    "id": "BY004010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.926",
+    "lon": "27.358"
+  },
+  "metadata": {},
+  "source": {}
+}

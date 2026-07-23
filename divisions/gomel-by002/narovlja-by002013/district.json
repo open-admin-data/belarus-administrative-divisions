@@ -1,0 +1,45 @@
+{
+  "id": "BY002013",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Narovlja",
+    "en": "Narovlja",
+    "slug": "narovlja-by002013"
+  },
+  "code": {
+    "id": "BY002013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY002",
+    "level": 1,
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.606",
+    "lon": "29.561"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,947 @@
+[
+  {
+    "id": "BY002001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bragin",
+      "en": "Bragin",
+      "slug": "bragin-by002001"
+    },
+    "code": {
+      "id": "BY002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.654",
+      "lon": "30.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buda-Koshelevo",
+      "en": "Buda-Koshelevo",
+      "slug": "buda-koshelevo-by002002"
+    },
+    "code": {
+      "id": "BY002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.751",
+      "lon": "30.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chechersk",
+      "en": "Chechersk",
+      "slug": "chechersk-by002003"
+    },
+    "code": {
+      "id": "BY002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.944",
+      "lon": "31.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dobrush",
+      "en": "Dobrush",
+      "slug": "dobrush-by002004"
+    },
+    "code": {
+      "id": "BY002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.356",
+      "lon": "31.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Elsk",
+      "en": "Elsk",
+      "slug": "elsk-by002005"
+    },
+    "code": {
+      "id": "BY002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.641",
+      "lon": "28.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gomel",
+      "en": "Gomel",
+      "slug": "gomel-by002006"
+    },
+    "code": {
+      "id": "BY002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.325",
+      "lon": "31.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hojniki",
+      "en": "Hojniki",
+      "slug": "hojniki-by002007"
+    },
+    "code": {
+      "id": "BY002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.82",
+      "lon": "29.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalinkovichi",
+      "en": "Kalinkovichi",
+      "slug": "kalinkovichi-by002008"
+    },
+    "code": {
+      "id": "BY002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.149",
+      "lon": "29.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Korma",
+      "en": "Korma",
+      "slug": "korma-by002009"
+    },
+    "code": {
+      "id": "BY002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.126",
+      "lon": "30.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lelchitsy",
+      "en": "Lelchitsy",
+      "slug": "lelchitsy-by002010"
+    },
+    "code": {
+      "id": "BY002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.735",
+      "lon": "28.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loev",
+      "en": "Loev",
+      "slug": "loev-by002011"
+    },
+    "code": {
+      "id": "BY002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.993",
+      "lon": "30.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mozyr",
+      "en": "Mozyr",
+      "slug": "mozyr-by002012"
+    },
+    "code": {
+      "id": "BY002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.954",
+      "lon": "29.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Narovlja",
+      "en": "Narovlja",
+      "slug": "narovlja-by002013"
+    },
+    "code": {
+      "id": "BY002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.606",
+      "lon": "29.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oktjabrsky",
+      "en": "Oktjabrsky",
+      "slug": "oktjabrsky-by002014"
+    },
+    "code": {
+      "id": "BY002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.645",
+      "lon": "28.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Petrikov",
+      "en": "Petrikov",
+      "slug": "petrikov-by002015"
+    },
+    "code": {
+      "id": "BY002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.257",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rechitsa",
+      "en": "Rechitsa",
+      "slug": "rechitsa-by002016"
+    },
+    "code": {
+      "id": "BY002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.344",
+      "lon": "30.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rogachev",
+      "en": "Rogachev",
+      "slug": "rogachev-by002017"
+    },
+    "code": {
+      "id": "BY002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.116",
+      "lon": "30.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002018",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Svetlogorsk",
+      "en": "Svetlogorsk",
+      "slug": "svetlogorsk-by002018"
+    },
+    "code": {
+      "id": "BY002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.66",
+      "lon": "29.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002019",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vetka",
+      "en": "Vetka",
+      "slug": "vetka-by002019"
+    },
+    "code": {
+      "id": "BY002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.715",
+      "lon": "31.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002020",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhitkovichi",
+      "en": "Zhitkovichi",
+      "slug": "zhitkovichi-by002020"
+    },
+    "code": {
+      "id": "BY002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.155",
+      "lon": "27.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002021",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhlobin",
+      "en": "Zhlobin",
+      "slug": "zhlobin-by002021"
+    },
+    "code": {
+      "id": "BY002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.788",
+      "lon": "29.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

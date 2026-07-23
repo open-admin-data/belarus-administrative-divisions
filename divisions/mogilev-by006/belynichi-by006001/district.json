@@ -1,0 +1,45 @@
+{
+  "id": "BY006001",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belynichi",
+    "en": "Belynichi",
+    "slug": "belynichi-by006001"
+  },
+  "code": {
+    "id": "BY006001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY006",
+    "level": 1,
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.886",
+    "lon": "29.638"
+  },
+  "metadata": {},
+  "source": {}
+}

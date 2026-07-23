@@ -1,0 +1,45 @@
+{
+  "id": "BY006008",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gorki",
+    "en": "Gorki",
+    "slug": "gorki-by006008"
+  },
+  "code": {
+    "id": "BY006008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY006",
+    "level": 1,
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.281",
+    "lon": "30.893"
+  },
+  "metadata": {},
+  "source": {}
+}

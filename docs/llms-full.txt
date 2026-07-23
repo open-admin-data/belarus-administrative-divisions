@@ -1,0 +1,25 @@
+# Belarus Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Brest](https://github.com/open-admin-data/belarus-administrative-divisions/blob/main/docs/llms-full/brest-by001.txt) — 16 districts
+- [Gomel](https://github.com/open-admin-data/belarus-administrative-divisions/blob/main/docs/llms-full/gomel-by002.txt) — 21 districts
+- [Grodno](https://github.com/open-admin-data/belarus-administrative-divisions/blob/main/docs/llms-full/grodno-by003.txt) — 17 districts
+- [Minsk](https://github.com/open-admin-data/belarus-administrative-divisions/blob/main/docs/llms-full/minsk-by004.txt) — 22 districts
+- [Minsk City](https://github.com/open-admin-data/belarus-administrative-divisions/blob/main/docs/llms-full/minsk-city-by005.txt) — 1 districts
+- [Mogilev](https://github.com/open-admin-data/belarus-administrative-divisions/blob/main/docs/llms-full/mogilev-by006.txt) — 21 districts
+- [Vitebsk](https://github.com/open-admin-data/belarus-administrative-divisions/blob/main/docs/llms-full/vitebsk-by007.txt) — 21 districts
+
+## Summary
+
+| Region | Districts | 
+|---|---|
+| Brest | 16 | 
+| Gomel | 21 | 
+| Grodno | 17 | 
+| Minsk | 22 | 
+| Minsk City | 1 | 
+| Mogilev | 21 | 
+| Vitebsk | 21 | 

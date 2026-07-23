@@ -1,0 +1,45 @@
+{
+  "id": "BY001016",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zhabinka",
+    "en": "Zhabinka",
+    "slug": "zhabinka-by001016"
+  },
+  "code": {
+    "id": "BY001016",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.212",
+    "lon": "24.05"
+  },
+  "metadata": {},
+  "source": {}
+}

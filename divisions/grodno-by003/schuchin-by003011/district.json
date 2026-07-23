@@ -1,0 +1,45 @@
+{
+  "id": "BY003011",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Schuchin",
+    "en": "Schuchin",
+    "slug": "schuchin-by003011"
+  },
+  "code": {
+    "id": "BY003011",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY003",
+    "level": 1,
+    "name": {
+      "local": "Гродзенская",
+      "en": "Grodno",
+      "slug": "grodno-by003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.725",
+    "lon": "24.754"
+  },
+  "metadata": {},
+  "source": {}
+}

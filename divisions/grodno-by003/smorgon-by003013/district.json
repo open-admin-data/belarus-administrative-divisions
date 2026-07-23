@@ -1,0 +1,45 @@
+{
+  "id": "BY003013",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Smorgon",
+    "en": "Smorgon",
+    "slug": "smorgon-by003013"
+  },
+  "code": {
+    "id": "BY003013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY003",
+    "level": 1,
+    "name": {
+      "local": "Гродзенская",
+      "en": "Grodno",
+      "slug": "grodno-by003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.502",
+    "lon": "26.453"
+  },
+  "metadata": {},
+  "source": {}
+}

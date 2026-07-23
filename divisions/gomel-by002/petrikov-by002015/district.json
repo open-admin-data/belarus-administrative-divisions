@@ -1,0 +1,45 @@
+{
+  "id": "BY002015",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Petrikov",
+    "en": "Petrikov",
+    "slug": "petrikov-by002015"
+  },
+  "code": {
+    "id": "BY002015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY002",
+    "level": 1,
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.257",
+    "lon": "28.582"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BY001009",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kobrin",
+    "en": "Kobrin",
+    "slug": "kobrin-by001009"
+  },
+  "code": {
+    "id": "BY001009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.178",
+    "lon": "24.519"
+  },
+  "metadata": {},
+  "source": {}
+}

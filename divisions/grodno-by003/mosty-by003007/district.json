@@ -1,0 +1,45 @@
+{
+  "id": "BY003007",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mosty",
+    "en": "Mosty",
+    "slug": "mosty-by003007"
+  },
+  "code": {
+    "id": "BY003007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY003",
+    "level": 1,
+    "name": {
+      "local": "Гродзенская",
+      "en": "Grodno",
+      "slug": "grodno-by003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.402",
+    "lon": "24.819"
+  },
+  "metadata": {},
+  "source": {}
+}

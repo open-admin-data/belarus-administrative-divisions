@@ -1,0 +1,233 @@
+[
+  {
+    "id": "BY001",
+    "level": 1,
+    "level_name": {
+      "local": "Вобласць",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    },
+    "code": {
+      "id": "BY001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.442",
+      "lon": "25.197"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/by/regions/brest-by001/",
+      "api": "https://openadmindata.org/api/by/"
+    }
+  },
+  {
+    "id": "BY002",
+    "level": 1,
+    "level_name": {
+      "local": "Вобласць",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    },
+    "code": {
+      "id": "BY002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.305",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/by/regions/gomel-by002/",
+      "api": "https://openadmindata.org/api/by/"
+    }
+  },
+  {
+    "id": "BY003",
+    "level": 1,
+    "level_name": {
+      "local": "Вобласць",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Гродзенская",
+      "en": "Grodno",
+      "slug": "grodno-by003"
+    },
+    "code": {
+      "id": "BY003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.861",
+      "lon": "24.884"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/by/regions/grodno-by003/",
+      "api": "https://openadmindata.org/api/by/"
+    }
+  },
+  {
+    "id": "BY004",
+    "level": 1,
+    "level_name": {
+      "local": "Вобласць",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    },
+    "code": {
+      "id": "BY004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.688",
+      "lon": "27.819"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/by/regions/minsk-by004/",
+      "api": "https://openadmindata.org/api/by/"
+    }
+  },
+  {
+    "id": "BY005",
+    "level": 1,
+    "level_name": {
+      "local": "Вобласць",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Мінск",
+      "en": "Minsk City",
+      "slug": "minsk-city-by005"
+    },
+    "code": {
+      "id": "BY005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.905",
+      "lon": "27.594"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/by/regions/minsk-city-by005/",
+      "api": "https://openadmindata.org/api/by/"
+    }
+  },
+  {
+    "id": "BY006",
+    "level": 1,
+    "level_name": {
+      "local": "Вобласць",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    },
+    "code": {
+      "id": "BY006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.574",
+      "lon": "30.702"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/by/regions/mogilev-by006/",
+      "api": "https://openadmindata.org/api/by/"
+    }
+  },
+  {
+    "id": "BY007",
+    "level": 1,
+    "level_name": {
+      "local": "Вобласць",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Віцебская",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007"
+    },
+    "code": {
+      "id": "BY007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.192",
+      "lon": "28.822"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/by/regions/vitebsk-by007/",
+      "api": "https://openadmindata.org/api/by/"
+    }
+  }
+]

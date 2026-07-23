@@ -1,0 +1,33 @@
+{
+  "id": "BY005",
+  "level": 1,
+  "level_name": {
+    "local": "Вобласць",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Мінск",
+    "en": "Minsk City",
+    "slug": "minsk-city-by005"
+  },
+  "code": {
+    "id": "BY005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.905",
+    "lon": "27.594"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/by/regions/minsk-city-by005/",
+    "api": "https://openadmindata.org/api/by/"
+  }
+}

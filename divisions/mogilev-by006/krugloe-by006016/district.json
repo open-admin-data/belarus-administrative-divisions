@@ -1,0 +1,45 @@
+{
+  "id": "BY006016",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krugloe",
+    "en": "Krugloe",
+    "slug": "krugloe-by006016"
+  },
+  "code": {
+    "id": "BY006016",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY006",
+    "level": 1,
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.173",
+    "lon": "29.634"
+  },
+  "metadata": {},
+  "source": {}
+}

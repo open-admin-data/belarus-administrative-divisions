@@ -1,0 +1,45 @@
+{
+  "id": "BY007001",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beshenkovichi",
+    "en": "Beshenkovichi",
+    "slug": "beshenkovichi-by007001"
+  },
+  "code": {
+    "id": "BY007001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY007",
+    "level": 1,
+    "name": {
+      "local": "Віцебская",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.976",
+    "lon": "29.324"
+  },
+  "metadata": {},
+  "source": {}
+}

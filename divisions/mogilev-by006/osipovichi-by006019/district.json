@@ -1,0 +1,45 @@
+{
+  "id": "BY006019",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Osipovichi",
+    "en": "Osipovichi",
+    "slug": "osipovichi-by006019"
+  },
+  "code": {
+    "id": "BY006019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY006",
+    "level": 1,
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.325",
+    "lon": "28.71"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "BY004",
+  "level": 1,
+  "level_name": {
+    "local": "Вобласць",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Мінская",
+    "en": "Minsk",
+    "slug": "minsk-by004"
+  },
+  "code": {
+    "id": "BY004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.688",
+    "lon": "27.819"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/by/regions/minsk-by004/",
+    "api": "https://openadmindata.org/api/by/"
+  }
+}

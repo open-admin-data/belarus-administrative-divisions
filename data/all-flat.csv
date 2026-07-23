@@ -1,0 +1,9 @@
+# Data from Open Admin Data (https://openadmindata.org/by/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/belarus-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+BY001,1,Вобласць,Region,Брэсцкая,Brest,brest-by001,BY001,,,,,,16,,52.442,25.197,https://openadmindata.org/by/regions/brest-by001/
+BY002,1,Вобласць,Region,Гомельская,Gomel,gomel-by002,BY002,,,,,,21,,52.305,29.476,https://openadmindata.org/by/regions/gomel-by002/
+BY003,1,Вобласць,Region,Гродзенская,Grodno,grodno-by003,BY003,,,,,,17,,53.861,24.884,https://openadmindata.org/by/regions/grodno-by003/
+BY004,1,Вобласць,Region,Мінская,Minsk,minsk-by004,BY004,,,,,,22,,53.688,27.819,https://openadmindata.org/by/regions/minsk-by004/
+BY005,1,Вобласць,Region,Мінск,Minsk City,minsk-city-by005,BY005,,,,,,1,,53.905,27.594,https://openadmindata.org/by/regions/minsk-city-by005/
+BY006,1,Вобласць,Region,Магілёўская,Mogilev,mogilev-by006,BY006,,,,,,21,,53.574,30.702,https://openadmindata.org/by/regions/mogilev-by006/
+BY007,1,Вобласць,Region,Віцебская,Vitebsk,vitebsk-by007,BY007,,,,,,21,,55.192,28.822,https://openadmindata.org/by/regions/vitebsk-by007/

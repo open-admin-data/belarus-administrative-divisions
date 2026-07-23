@@ -1,0 +1,14 @@
+# Minsk City — Belarus Administrative Divisions
+
+> 1 districts
+> Code: BY005
+> Coordinates: 53.905, 27.594
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Districts
+
+### Minsk City
+
+Code: BY005001, Coordinates: 53.905, 27.594
+
+

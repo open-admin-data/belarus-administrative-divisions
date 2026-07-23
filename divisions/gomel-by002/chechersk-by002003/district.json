@@ -1,0 +1,45 @@
+{
+  "id": "BY002003",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chechersk",
+    "en": "Chechersk",
+    "slug": "chechersk-by002003"
+  },
+  "code": {
+    "id": "BY002003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY002",
+    "level": 1,
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.944",
+    "lon": "31.106"
+  },
+  "metadata": {},
+  "source": {}
+}

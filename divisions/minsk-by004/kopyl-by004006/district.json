@@ -1,0 +1,45 @@
+{
+  "id": "BY004006",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kopyl",
+    "en": "Kopyl",
+    "slug": "kopyl-by004006"
+  },
+  "code": {
+    "id": "BY004006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.075",
+    "lon": "27.154"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,5357 @@
+[
+  {
+    "id": "BY001001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baranovichi",
+      "en": "Baranovichi",
+      "slug": "baranovichi-by001001"
+    },
+    "code": {
+      "id": "BY001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.111",
+      "lon": "25.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bereza",
+      "en": "Bereza",
+      "slug": "bereza-by001002"
+    },
+    "code": {
+      "id": "BY001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.518",
+      "lon": "25.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brest",
+      "en": "Brest",
+      "slug": "brest-by001003"
+    },
+    "code": {
+      "id": "BY001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.94",
+      "lon": "23.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Drogichin",
+      "en": "Drogichin",
+      "slug": "drogichin-by001004"
+    },
+    "code": {
+      "id": "BY001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.166",
+      "lon": "25.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gancevichi",
+      "en": "Gancevichi",
+      "slug": "gancevichi-by001005"
+    },
+    "code": {
+      "id": "BY001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.68",
+      "lon": "26.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ivacevichi",
+      "en": "Ivacevichi",
+      "slug": "ivacevichi-by001006"
+    },
+    "code": {
+      "id": "BY001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.717",
+      "lon": "25.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ivanovo",
+      "en": "Ivanovo",
+      "slug": "ivanovo-by001007"
+    },
+    "code": {
+      "id": "BY001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.199",
+      "lon": "25.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kamenec",
+      "en": "Kamenec",
+      "slug": "kamenec-by001008"
+    },
+    "code": {
+      "id": "BY001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.44",
+      "lon": "23.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kobrin",
+      "en": "Kobrin",
+      "slug": "kobrin-by001009"
+    },
+    "code": {
+      "id": "BY001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.178",
+      "lon": "24.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ljahovichi",
+      "en": "Ljahovichi",
+      "slug": "ljahovichi-by001010"
+    },
+    "code": {
+      "id": "BY001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.916",
+      "lon": "26.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luninec",
+      "en": "Luninec",
+      "slug": "luninec-by001011"
+    },
+    "code": {
+      "id": "BY001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.433",
+      "lon": "26.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malorita",
+      "en": "Malorita",
+      "slug": "malorita-by001012"
+    },
+    "code": {
+      "id": "BY001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.836",
+      "lon": "24.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pinsk",
+      "en": "Pinsk",
+      "slug": "pinsk-by001013"
+    },
+    "code": {
+      "id": "BY001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.202",
+      "lon": "26.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pruzhany",
+      "en": "Pruzhany",
+      "slug": "pruzhany-by001014"
+    },
+    "code": {
+      "id": "BY001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.69",
+      "lon": "24.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stolin",
+      "en": "Stolin",
+      "slug": "stolin-by001015"
+    },
+    "code": {
+      "id": "BY001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.887",
+      "lon": "26.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY001016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhabinka",
+      "en": "Zhabinka",
+      "slug": "zhabinka-by001016"
+    },
+    "code": {
+      "id": "BY001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY001",
+        "level": 1,
+        "name": {
+          "local": "Брэсцкая",
+          "en": "Brest",
+          "slug": "brest-by001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.212",
+      "lon": "24.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bragin",
+      "en": "Bragin",
+      "slug": "bragin-by002001"
+    },
+    "code": {
+      "id": "BY002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.654",
+      "lon": "30.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buda-Koshelevo",
+      "en": "Buda-Koshelevo",
+      "slug": "buda-koshelevo-by002002"
+    },
+    "code": {
+      "id": "BY002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.751",
+      "lon": "30.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chechersk",
+      "en": "Chechersk",
+      "slug": "chechersk-by002003"
+    },
+    "code": {
+      "id": "BY002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.944",
+      "lon": "31.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dobrush",
+      "en": "Dobrush",
+      "slug": "dobrush-by002004"
+    },
+    "code": {
+      "id": "BY002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.356",
+      "lon": "31.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Elsk",
+      "en": "Elsk",
+      "slug": "elsk-by002005"
+    },
+    "code": {
+      "id": "BY002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.641",
+      "lon": "28.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gomel",
+      "en": "Gomel",
+      "slug": "gomel-by002006"
+    },
+    "code": {
+      "id": "BY002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.325",
+      "lon": "31.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hojniki",
+      "en": "Hojniki",
+      "slug": "hojniki-by002007"
+    },
+    "code": {
+      "id": "BY002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.82",
+      "lon": "29.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalinkovichi",
+      "en": "Kalinkovichi",
+      "slug": "kalinkovichi-by002008"
+    },
+    "code": {
+      "id": "BY002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.149",
+      "lon": "29.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Korma",
+      "en": "Korma",
+      "slug": "korma-by002009"
+    },
+    "code": {
+      "id": "BY002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.126",
+      "lon": "30.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lelchitsy",
+      "en": "Lelchitsy",
+      "slug": "lelchitsy-by002010"
+    },
+    "code": {
+      "id": "BY002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.735",
+      "lon": "28.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loev",
+      "en": "Loev",
+      "slug": "loev-by002011"
+    },
+    "code": {
+      "id": "BY002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.993",
+      "lon": "30.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mozyr",
+      "en": "Mozyr",
+      "slug": "mozyr-by002012"
+    },
+    "code": {
+      "id": "BY002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.954",
+      "lon": "29.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Narovlja",
+      "en": "Narovlja",
+      "slug": "narovlja-by002013"
+    },
+    "code": {
+      "id": "BY002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.606",
+      "lon": "29.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oktjabrsky",
+      "en": "Oktjabrsky",
+      "slug": "oktjabrsky-by002014"
+    },
+    "code": {
+      "id": "BY002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.645",
+      "lon": "28.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Petrikov",
+      "en": "Petrikov",
+      "slug": "petrikov-by002015"
+    },
+    "code": {
+      "id": "BY002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.257",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rechitsa",
+      "en": "Rechitsa",
+      "slug": "rechitsa-by002016"
+    },
+    "code": {
+      "id": "BY002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.344",
+      "lon": "30.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rogachev",
+      "en": "Rogachev",
+      "slug": "rogachev-by002017"
+    },
+    "code": {
+      "id": "BY002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.116",
+      "lon": "30.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002018",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Svetlogorsk",
+      "en": "Svetlogorsk",
+      "slug": "svetlogorsk-by002018"
+    },
+    "code": {
+      "id": "BY002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.66",
+      "lon": "29.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002019",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vetka",
+      "en": "Vetka",
+      "slug": "vetka-by002019"
+    },
+    "code": {
+      "id": "BY002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.715",
+      "lon": "31.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002020",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhitkovichi",
+      "en": "Zhitkovichi",
+      "slug": "zhitkovichi-by002020"
+    },
+    "code": {
+      "id": "BY002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.155",
+      "lon": "27.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY002021",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhlobin",
+      "en": "Zhlobin",
+      "slug": "zhlobin-by002021"
+    },
+    "code": {
+      "id": "BY002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY002",
+        "level": 1,
+        "name": {
+          "local": "Гомельская",
+          "en": "Gomel",
+          "slug": "gomel-by002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.788",
+      "lon": "29.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berestovica",
+      "en": "Berestovica",
+      "slug": "berestovica-by003001"
+    },
+    "code": {
+      "id": "BY003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.26",
+      "lon": "23.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Djatlovo",
+      "en": "Djatlovo",
+      "slug": "djatlovo-by003002"
+    },
+    "code": {
+      "id": "BY003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.422",
+      "lon": "25.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Grodno",
+      "en": "Grodno",
+      "slug": "grodno-by003003"
+    },
+    "code": {
+      "id": "BY003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.669",
+      "lon": "24.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ive",
+      "en": "Ive",
+      "slug": "ive-by003004"
+    },
+    "code": {
+      "id": "BY003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.994",
+      "lon": "25.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Korelichi",
+      "en": "Korelichi",
+      "slug": "korelichi-by003005"
+    },
+    "code": {
+      "id": "BY003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.492",
+      "lon": "26.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lida",
+      "en": "Lida",
+      "slug": "lida-by003006"
+    },
+    "code": {
+      "id": "BY003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.756",
+      "lon": "25.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mosty",
+      "en": "Mosty",
+      "slug": "mosty-by003007"
+    },
+    "code": {
+      "id": "BY003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.402",
+      "lon": "24.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Novogrudok",
+      "en": "Novogrudok",
+      "slug": "novogrudok-by003008"
+    },
+    "code": {
+      "id": "BY003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.619",
+      "lon": "25.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oshmjany",
+      "en": "Oshmjany",
+      "slug": "oshmjany-by003009"
+    },
+    "code": {
+      "id": "BY003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.34",
+      "lon": "25.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ostrovec",
+      "en": "Ostrovec",
+      "slug": "ostrovec-by003010"
+    },
+    "code": {
+      "id": "BY003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.736",
+      "lon": "26.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schuchin",
+      "en": "Schuchin",
+      "slug": "schuchin-by003011"
+    },
+    "code": {
+      "id": "BY003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.725",
+      "lon": "24.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Slonim",
+      "en": "Slonim",
+      "slug": "slonim-by003012"
+    },
+    "code": {
+      "id": "BY003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.082",
+      "lon": "25.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Smorgon",
+      "en": "Smorgon",
+      "slug": "smorgon-by003013"
+    },
+    "code": {
+      "id": "BY003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.502",
+      "lon": "26.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Svisloch",
+      "en": "Svisloch",
+      "slug": "svisloch-by003014"
+    },
+    "code": {
+      "id": "BY003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.937",
+      "lon": "24.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Volkovysk",
+      "en": "Volkovysk",
+      "slug": "volkovysk-by003015"
+    },
+    "code": {
+      "id": "BY003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.181",
+      "lon": "24.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Voronovo",
+      "en": "Voronovo",
+      "slug": "voronovo-by003016"
+    },
+    "code": {
+      "id": "BY003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.069",
+      "lon": "25.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zel'va",
+      "en": "Zelva",
+      "slug": "zelva-by003017"
+    },
+    "code": {
+      "id": "BY003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.094",
+      "lon": "24.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berezino",
+      "en": "Berezino",
+      "slug": "berezino-by004001"
+    },
+    "code": {
+      "id": "BY004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.821",
+      "lon": "29.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Borisov",
+      "en": "Borisov",
+      "slug": "borisov-by004002"
+    },
+    "code": {
+      "id": "BY004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.307",
+      "lon": "28.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cherven",
+      "en": "Cherven",
+      "slug": "cherven-by004003"
+    },
+    "code": {
+      "id": "BY004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.757",
+      "lon": "28.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzerzhinsk",
+      "en": "Dzerzhinsk",
+      "slug": "dzerzhinsk-by004004"
+    },
+    "code": {
+      "id": "BY004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.675",
+      "lon": "27.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kletsk",
+      "en": "Kletsk",
+      "slug": "kletsk-by004005"
+    },
+    "code": {
+      "id": "BY004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.915",
+      "lon": "26.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kopyl",
+      "en": "Kopyl",
+      "slug": "kopyl-by004006"
+    },
+    "code": {
+      "id": "BY004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.075",
+      "lon": "27.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krupki",
+      "en": "Krupki",
+      "slug": "krupki-by004007"
+    },
+    "code": {
+      "id": "BY004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.334",
+      "lon": "29.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Logojsk",
+      "en": "Logojsk",
+      "slug": "logojsk-by004008"
+    },
+    "code": {
+      "id": "BY004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.391",
+      "lon": "27.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lyuban",
+      "en": "Lyuban",
+      "slug": "lyuban-by004009"
+    },
+    "code": {
+      "id": "BY004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.728",
+      "lon": "28.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Minsk",
+      "en": "Minsk",
+      "slug": "minsk-by004010"
+    },
+    "code": {
+      "id": "BY004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.926",
+      "lon": "27.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mjadel",
+      "en": "Mjadel",
+      "slug": "mjadel-by004011"
+    },
+    "code": {
+      "id": "BY004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.785",
+      "lon": "27.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Molodechno",
+      "en": "Molodechno",
+      "slug": "molodechno-by004012"
+    },
+    "code": {
+      "id": "BY004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.244",
+      "lon": "26.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nesvizh",
+      "en": "Nesvizh",
+      "slug": "nesvizh-by004013"
+    },
+    "code": {
+      "id": "BY004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.232",
+      "lon": "26.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Puhovichi",
+      "en": "Puhovichi",
+      "slug": "puhovichi-by004014"
+    },
+    "code": {
+      "id": "BY004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.47",
+      "lon": "28.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Slutsk",
+      "en": "Slutsk",
+      "slug": "slutsk-by004015"
+    },
+    "code": {
+      "id": "BY004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.117",
+      "lon": "27.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Smolevichi",
+      "en": "Smolevichi",
+      "slug": "smolevichi-by004016"
+    },
+    "code": {
+      "id": "BY004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.982",
+      "lon": "28.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Soligorsk",
+      "en": "Soligorsk",
+      "slug": "soligorsk-by004017"
+    },
+    "code": {
+      "id": "BY004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.657",
+      "lon": "27.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004018",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "St.Dorogi",
+      "en": "St.Dorogi",
+      "slug": "stdorogi-by004018"
+    },
+    "code": {
+      "id": "BY004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.064",
+      "lon": "28.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004019",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stolbtsy",
+      "en": "Stolbtsy",
+      "slug": "stolbtsy-by004019"
+    },
+    "code": {
+      "id": "BY004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.603",
+      "lon": "26.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004020",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uzda",
+      "en": "Uzda",
+      "slug": "uzda-by004020"
+    },
+    "code": {
+      "id": "BY004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.474",
+      "lon": "27.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004021",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vilejka",
+      "en": "Vilejka",
+      "slug": "vilejka-by004021"
+    },
+    "code": {
+      "id": "BY004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.486",
+      "lon": "27.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY004022",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Volozhin",
+      "en": "Volozhin",
+      "slug": "volozhin-by004022"
+    },
+    "code": {
+      "id": "BY004022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY004",
+        "level": 1,
+        "name": {
+          "local": "Мінская",
+          "en": "Minsk",
+          "slug": "minsk-by004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.02",
+      "lon": "26.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY005001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Minsk City",
+      "en": "Minsk City",
+      "slug": "minsk-city-by005001"
+    },
+    "code": {
+      "id": "BY005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY005",
+      "level": 1,
+      "name": {
+        "local": "Мінск",
+        "en": "Minsk City",
+        "slug": "minsk-city-by005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY005",
+        "level": 1,
+        "name": {
+          "local": "Мінск",
+          "en": "Minsk City",
+          "slug": "minsk-city-by005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.905",
+      "lon": "27.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belynichi",
+      "en": "Belynichi",
+      "slug": "belynichi-by006001"
+    },
+    "code": {
+      "id": "BY006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.886",
+      "lon": "29.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bobrujsk",
+      "en": "Bobrujsk",
+      "slug": "bobrujsk-by006002"
+    },
+    "code": {
+      "id": "BY006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.067",
+      "lon": "29.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Byhov",
+      "en": "Byhov",
+      "slug": "byhov-by006003"
+    },
+    "code": {
+      "id": "BY006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.463",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chausy",
+      "en": "Chausy",
+      "slug": "chausy-by006004"
+    },
+    "code": {
+      "id": "BY006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.782",
+      "lon": "30.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cherikov",
+      "en": "Cherikov",
+      "slug": "cherikov-by006005"
+    },
+    "code": {
+      "id": "BY006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.62",
+      "lon": "31.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dribin",
+      "en": "Dribin",
+      "slug": "dribin-by006006"
+    },
+    "code": {
+      "id": "BY006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.041",
+      "lon": "30.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glusk",
+      "en": "Glusk",
+      "slug": "glusk-by006007"
+    },
+    "code": {
+      "id": "BY006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.886",
+      "lon": "28.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gorki",
+      "en": "Gorki",
+      "slug": "gorki-by006008"
+    },
+    "code": {
+      "id": "BY006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.281",
+      "lon": "30.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hotimsk",
+      "en": "Hotimsk",
+      "slug": "hotimsk-by006009"
+    },
+    "code": {
+      "id": "BY006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.408",
+      "lon": "32.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kirovsk",
+      "en": "Kirovsk",
+      "slug": "kirovsk-by006010"
+    },
+    "code": {
+      "id": "BY006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.322",
+      "lon": "29.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Klichev",
+      "en": "Klichev",
+      "slug": "klichev-by006011"
+    },
+    "code": {
+      "id": "BY006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.462",
+      "lon": "29.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Klimovichi",
+      "en": "Klimovichi",
+      "slug": "klimovichi-by006012"
+    },
+    "code": {
+      "id": "BY006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.623",
+      "lon": "32.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kostyukovichi",
+      "en": "Kostyukovichi",
+      "slug": "kostyukovichi-by006013"
+    },
+    "code": {
+      "id": "BY006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.299",
+      "lon": "32.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krasnopole",
+      "en": "Krasnopole",
+      "slug": "krasnopole-by006014"
+    },
+    "code": {
+      "id": "BY006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.286",
+      "lon": "31.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krichev",
+      "en": "Krichev",
+      "slug": "krichev-by006015"
+    },
+    "code": {
+      "id": "BY006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.731",
+      "lon": "31.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krugloe",
+      "en": "Krugloe",
+      "slug": "krugloe-by006016"
+    },
+    "code": {
+      "id": "BY006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.173",
+      "lon": "29.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mogilev",
+      "en": "Mogilev",
+      "slug": "mogilev-by006017"
+    },
+    "code": {
+      "id": "BY006017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.84",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006018",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mstislav",
+      "en": "Mstislav",
+      "slug": "mstislav-by006018"
+    },
+    "code": {
+      "id": "BY006018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.027",
+      "lon": "31.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006019",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Osipovichi",
+      "en": "Osipovichi",
+      "slug": "osipovichi-by006019"
+    },
+    "code": {
+      "id": "BY006019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.325",
+      "lon": "28.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006020",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shklov",
+      "en": "Shklov",
+      "slug": "shklov-by006020"
+    },
+    "code": {
+      "id": "BY006020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.173",
+      "lon": "30.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006021",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Slavgorod",
+      "en": "Slavgorod",
+      "slug": "slavgorod-by006021"
+    },
+    "code": {
+      "id": "BY006021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.487",
+      "lon": "30.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beshenkovichi",
+      "en": "Beshenkovichi",
+      "slug": "beshenkovichi-by007001"
+    },
+    "code": {
+      "id": "BY007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.976",
+      "lon": "29.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Braslav",
+      "en": "Braslav",
+      "slug": "braslav-by007002"
+    },
+    "code": {
+      "id": "BY007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.543",
+      "lon": "26.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chashniki",
+      "en": "Chashniki",
+      "slug": "chashniki-by007003"
+    },
+    "code": {
+      "id": "BY007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.766",
+      "lon": "29.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dokshitsy",
+      "en": "Dokshitsy",
+      "slug": "dokshitsy-by007004"
+    },
+    "code": {
+      "id": "BY007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.797",
+      "lon": "27.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dubrovno",
+      "en": "Dubrovno",
+      "slug": "dubrovno-by007005"
+    },
+    "code": {
+      "id": "BY007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.61",
+      "lon": "30.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glubokoe",
+      "en": "Glubokoe",
+      "slug": "glubokoe-by007006"
+    },
+    "code": {
+      "id": "BY007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.11",
+      "lon": "27.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gorodok",
+      "en": "Gorodok",
+      "slug": "gorodok-by007007"
+    },
+    "code": {
+      "id": "BY007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.572",
+      "lon": "30.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lepel",
+      "en": "Lepel",
+      "slug": "lepel-by007008"
+    },
+    "code": {
+      "id": "BY007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.801",
+      "lon": "28.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Liozno",
+      "en": "Liozno",
+      "slug": "liozno-by007009"
+    },
+    "code": {
+      "id": "BY007009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.012",
+      "lon": "30.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Miory",
+      "en": "Miory",
+      "slug": "miory-by007010"
+    },
+    "code": {
+      "id": "BY007010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.544",
+      "lon": "27.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Orsha",
+      "en": "Orsha",
+      "slug": "orsha-by007011"
+    },
+    "code": {
+      "id": "BY007011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.549",
+      "lon": "30.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Polotsk",
+      "en": "Polotsk",
+      "slug": "polotsk-by007012"
+    },
+    "code": {
+      "id": "BY007012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.467",
+      "lon": "28.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Postavy",
+      "en": "Postavy",
+      "slug": "postavy-by007013"
+    },
+    "code": {
+      "id": "BY007013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.096",
+      "lon": "26.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rossony",
+      "en": "Rossony",
+      "slug": "rossony-by007014"
+    },
+    "code": {
+      "id": "BY007014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.83",
+      "lon": "28.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Senno",
+      "en": "Senno",
+      "slug": "senno-by007015"
+    },
+    "code": {
+      "id": "BY007015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.754",
+      "lon": "29.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sharkovschina",
+      "en": "Sharkovschina",
+      "slug": "sharkovschina-by007016"
+    },
+    "code": {
+      "id": "BY007016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.328",
+      "lon": "27.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shumilino",
+      "en": "Shumilino",
+      "slug": "shumilino-by007017"
+    },
+    "code": {
+      "id": "BY007017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.276",
+      "lon": "29.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007018",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tolochin",
+      "en": "Tolochin",
+      "slug": "tolochin-by007018"
+    },
+    "code": {
+      "id": "BY007018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.409",
+      "lon": "29.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007019",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ushachi",
+      "en": "Ushachi",
+      "slug": "ushachi-by007019"
+    },
+    "code": {
+      "id": "BY007019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.065",
+      "lon": "28.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007020",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Verhnedvinsk",
+      "en": "Verhnedvinsk",
+      "slug": "verhnedvinsk-by007020"
+    },
+    "code": {
+      "id": "BY007020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.823",
+      "lon": "27.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY007021",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vitebsk",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007021"
+    },
+    "code": {
+      "id": "BY007021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY007",
+        "level": 1,
+        "name": {
+          "local": "Віцебская",
+          "en": "Vitebsk",
+          "slug": "vitebsk-by007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.243",
+      "lon": "30.162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

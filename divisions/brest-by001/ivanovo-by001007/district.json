@@ -1,0 +1,45 @@
+{
+  "id": "BY001007",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ivanovo",
+    "en": "Ivanovo",
+    "slug": "ivanovo-by001007"
+  },
+  "code": {
+    "id": "BY001007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.199",
+    "lon": "25.63"
+  },
+  "metadata": {},
+  "source": {}
+}

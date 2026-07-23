@@ -1,0 +1,45 @@
+{
+  "id": "BY002001",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bragin",
+    "en": "Bragin",
+    "slug": "bragin-by002001"
+  },
+  "code": {
+    "id": "BY002001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY002",
+    "level": 1,
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.654",
+    "lon": "30.325"
+  },
+  "metadata": {},
+  "source": {}
+}

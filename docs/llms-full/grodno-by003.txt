@@ -1,0 +1,94 @@
+# Grodno — Belarus Administrative Divisions
+
+> 17 districts
+> Code: BY003
+> Coordinates: 53.861, 24.884
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Districts
+
+### Berestovica
+
+Code: BY003001, Coordinates: 53.26, 23.99
+
+
+### Djatlovo
+
+Code: BY003002, Coordinates: 53.422, 25.499
+
+
+### Grodno
+
+Code: BY003003, Coordinates: 53.669, 24.038
+
+
+### Ive
+
+Code: BY003004, Coordinates: 53.994, 25.989
+
+
+### Korelichi
+
+Code: BY003005, Coordinates: 53.492, 26.286
+
+
+### Lida
+
+Code: BY003006, Coordinates: 53.756, 25.336
+
+
+### Mosty
+
+Code: BY003007, Coordinates: 53.402, 24.819
+
+
+### Novogrudok
+
+Code: BY003008, Coordinates: 53.619, 25.987
+
+
+### Oshmjany
+
+Code: BY003009, Coordinates: 54.34, 25.898
+
+
+### Ostrovec
+
+Code: BY003010, Coordinates: 54.736, 26.041
+
+
+### Schuchin
+
+Code: BY003011, Coordinates: 53.725, 24.754
+
+
+### Slonim
+
+Code: BY003012, Coordinates: 53.082, 25.276
+
+
+### Smorgon
+
+Code: BY003013, Coordinates: 54.502, 26.453
+
+
+### Svisloch
+
+Code: BY003014, Coordinates: 52.937, 24.277
+
+
+### Volkovysk
+
+Code: BY003015, Coordinates: 53.181, 24.397
+
+
+### Voronovo
+
+Code: BY003016, Coordinates: 54.069, 25.197
+
+
+### Zel&#39;va (Zelva)
+
+Code: BY003017, Coordinates: 53.094, 24.87
+
+

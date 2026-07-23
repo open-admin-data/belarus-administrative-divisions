@@ -1,0 +1,45 @@
+{
+  "id": "BY001015",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Stolin",
+    "en": "Stolin",
+    "slug": "stolin-by001015"
+  },
+  "code": {
+    "id": "BY001015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.887",
+    "lon": "26.987"
+  },
+  "metadata": {},
+  "source": {}
+}

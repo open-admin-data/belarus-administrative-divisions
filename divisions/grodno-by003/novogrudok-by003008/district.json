@@ -1,0 +1,45 @@
+{
+  "id": "BY003008",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Novogrudok",
+    "en": "Novogrudok",
+    "slug": "novogrudok-by003008"
+  },
+  "code": {
+    "id": "BY003008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY003",
+    "level": 1,
+    "name": {
+      "local": "Гродзенская",
+      "en": "Grodno",
+      "slug": "grodno-by003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.619",
+    "lon": "25.987"
+  },
+  "metadata": {},
+  "source": {}
+}

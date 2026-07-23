@@ -1,0 +1,33 @@
+{
+  "id": "BY003",
+  "level": 1,
+  "level_name": {
+    "local": "Вобласць",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Гродзенская",
+    "en": "Grodno",
+    "slug": "grodno-by003"
+  },
+  "code": {
+    "id": "BY003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.861",
+    "lon": "24.884"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/by/regions/grodno-by003/",
+    "api": "https://openadmindata.org/api/by/"
+  }
+}

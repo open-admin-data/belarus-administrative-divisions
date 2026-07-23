@@ -1,0 +1,45 @@
+{
+  "id": "BY004020",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uzda",
+    "en": "Uzda",
+    "slug": "uzda-by004020"
+  },
+  "code": {
+    "id": "BY004020",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.474",
+    "lon": "27.41"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BY004005",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kletsk",
+    "en": "Kletsk",
+    "slug": "kletsk-by004005"
+  },
+  "code": {
+    "id": "BY004005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.915",
+    "lon": "26.684"
+  },
+  "metadata": {},
+  "source": {}
+}

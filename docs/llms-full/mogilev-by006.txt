@@ -1,0 +1,114 @@
+# Mogilev — Belarus Administrative Divisions
+
+> 21 districts
+> Code: BY006
+> Coordinates: 53.574, 30.702
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Districts
+
+### Belynichi
+
+Code: BY006001, Coordinates: 53.886, 29.638
+
+
+### Bobrujsk
+
+Code: BY006002, Coordinates: 53.067, 29.163
+
+
+### Byhov
+
+Code: BY006003, Coordinates: 53.463, 30.214
+
+
+### Chausy
+
+Code: BY006004, Coordinates: 53.782, 30.934
+
+
+### Cherikov
+
+Code: BY006005, Coordinates: 53.62, 31.407
+
+
+### Dribin
+
+Code: BY006006, Coordinates: 54.041, 30.93
+
+
+### Glusk
+
+Code: BY006007, Coordinates: 52.886, 28.716
+
+
+### Gorki
+
+Code: BY006008, Coordinates: 54.281, 30.893
+
+
+### Hotimsk
+
+Code: BY006009, Coordinates: 53.408, 32.564
+
+
+### Kirovsk
+
+Code: BY006010, Coordinates: 53.322, 29.553
+
+
+### Klichev
+
+Code: BY006011, Coordinates: 53.462, 29.212
+
+
+### Klimovichi
+
+Code: BY006012, Coordinates: 53.623, 32.079
+
+
+### Kostyukovichi
+
+Code: BY006013, Coordinates: 53.299, 32.067
+
+
+### Krasnopole
+
+Code: BY006014, Coordinates: 53.286, 31.459
+
+
+### Krichev
+
+Code: BY006015, Coordinates: 53.731, 31.688
+
+
+### Krugloe
+
+Code: BY006016, Coordinates: 54.173, 29.634
+
+
+### Mogilev
+
+Code: BY006017, Coordinates: 53.84, 30.214
+
+
+### Mstislav
+
+Code: BY006018, Coordinates: 54.027, 31.561
+
+
+### Osipovichi
+
+Code: BY006019, Coordinates: 53.325, 28.71
+
+
+### Shklov
+
+Code: BY006020, Coordinates: 54.173, 30.264
+
+
+### Slavgorod
+
+Code: BY006021, Coordinates: 53.487, 30.968
+
+

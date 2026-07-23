@@ -1,0 +1,45 @@
+{
+  "id": "BY004008",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Logojsk",
+    "en": "Logojsk",
+    "slug": "logojsk-by004008"
+  },
+  "code": {
+    "id": "BY004008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.391",
+    "lon": "27.855"
+  },
+  "metadata": {},
+  "source": {}
+}

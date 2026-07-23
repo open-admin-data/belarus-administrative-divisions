@@ -1,0 +1,767 @@
+[
+  {
+    "id": "BY003001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berestovica",
+      "en": "Berestovica",
+      "slug": "berestovica-by003001"
+    },
+    "code": {
+      "id": "BY003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.26",
+      "lon": "23.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Djatlovo",
+      "en": "Djatlovo",
+      "slug": "djatlovo-by003002"
+    },
+    "code": {
+      "id": "BY003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.422",
+      "lon": "25.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Grodno",
+      "en": "Grodno",
+      "slug": "grodno-by003003"
+    },
+    "code": {
+      "id": "BY003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.669",
+      "lon": "24.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ive",
+      "en": "Ive",
+      "slug": "ive-by003004"
+    },
+    "code": {
+      "id": "BY003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.994",
+      "lon": "25.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Korelichi",
+      "en": "Korelichi",
+      "slug": "korelichi-by003005"
+    },
+    "code": {
+      "id": "BY003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.492",
+      "lon": "26.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lida",
+      "en": "Lida",
+      "slug": "lida-by003006"
+    },
+    "code": {
+      "id": "BY003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.756",
+      "lon": "25.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mosty",
+      "en": "Mosty",
+      "slug": "mosty-by003007"
+    },
+    "code": {
+      "id": "BY003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.402",
+      "lon": "24.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Novogrudok",
+      "en": "Novogrudok",
+      "slug": "novogrudok-by003008"
+    },
+    "code": {
+      "id": "BY003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.619",
+      "lon": "25.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oshmjany",
+      "en": "Oshmjany",
+      "slug": "oshmjany-by003009"
+    },
+    "code": {
+      "id": "BY003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.34",
+      "lon": "25.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ostrovec",
+      "en": "Ostrovec",
+      "slug": "ostrovec-by003010"
+    },
+    "code": {
+      "id": "BY003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.736",
+      "lon": "26.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Schuchin",
+      "en": "Schuchin",
+      "slug": "schuchin-by003011"
+    },
+    "code": {
+      "id": "BY003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.725",
+      "lon": "24.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Slonim",
+      "en": "Slonim",
+      "slug": "slonim-by003012"
+    },
+    "code": {
+      "id": "BY003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.082",
+      "lon": "25.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Smorgon",
+      "en": "Smorgon",
+      "slug": "smorgon-by003013"
+    },
+    "code": {
+      "id": "BY003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.502",
+      "lon": "26.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Svisloch",
+      "en": "Svisloch",
+      "slug": "svisloch-by003014"
+    },
+    "code": {
+      "id": "BY003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.937",
+      "lon": "24.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Volkovysk",
+      "en": "Volkovysk",
+      "slug": "volkovysk-by003015"
+    },
+    "code": {
+      "id": "BY003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.181",
+      "lon": "24.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Voronovo",
+      "en": "Voronovo",
+      "slug": "voronovo-by003016"
+    },
+    "code": {
+      "id": "BY003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.069",
+      "lon": "25.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY003017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zel'va",
+      "en": "Zelva",
+      "slug": "zelva-by003017"
+    },
+    "code": {
+      "id": "BY003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY003",
+      "level": 1,
+      "name": {
+        "local": "Гродзенская",
+        "en": "Grodno",
+        "slug": "grodno-by003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY003",
+        "level": 1,
+        "name": {
+          "local": "Гродзенская",
+          "en": "Grodno",
+          "slug": "grodno-by003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.094",
+      "lon": "24.87"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

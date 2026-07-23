@@ -1,0 +1,45 @@
+{
+  "id": "BY004009",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lyuban",
+    "en": "Lyuban",
+    "slug": "lyuban-by004009"
+  },
+  "code": {
+    "id": "BY004009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.728",
+    "lon": "28.09"
+  },
+  "metadata": {},
+  "source": {}
+}

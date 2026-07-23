@@ -1,0 +1,114 @@
+# Gomel — Belarus Administrative Divisions
+
+> 21 districts
+> Code: BY002
+> Coordinates: 52.305, 29.476
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Districts
+
+### Bragin
+
+Code: BY002001, Coordinates: 51.654, 30.325
+
+
+### Buda-Koshelevo
+
+Code: BY002002, Coordinates: 52.751, 30.606
+
+
+### Chechersk
+
+Code: BY002003, Coordinates: 52.944, 31.106
+
+
+### Dobrush
+
+Code: BY002004, Coordinates: 52.356, 31.51
+
+
+### Elsk
+
+Code: BY002005, Coordinates: 51.641, 28.853
+
+
+### Gomel
+
+Code: BY002006, Coordinates: 52.325, 31.114
+
+
+### Hojniki
+
+Code: BY002007, Coordinates: 51.82, 29.942
+
+
+### Kalinkovichi
+
+Code: BY002008, Coordinates: 52.149, 29.455
+
+
+### Korma
+
+Code: BY002009, Coordinates: 53.126, 30.844
+
+
+### Lelchitsy
+
+Code: BY002010, Coordinates: 51.735, 28.093
+
+
+### Loev
+
+Code: BY002011, Coordinates: 51.993, 30.72
+
+
+### Mozyr
+
+Code: BY002012, Coordinates: 51.954, 29.071
+
+
+### Narovlja
+
+Code: BY002013, Coordinates: 51.606, 29.561
+
+
+### Oktjabrsky
+
+Code: BY002014, Coordinates: 52.645, 28.78
+
+
+### Petrikov
+
+Code: BY002015, Coordinates: 52.257, 28.582
+
+
+### Rechitsa
+
+Code: BY002016, Coordinates: 52.344, 30.405
+
+
+### Rogachev
+
+Code: BY002017, Coordinates: 53.116, 30.101
+
+
+### Svetlogorsk
+
+Code: BY002018, Coordinates: 52.66, 29.472
+
+
+### Vetka
+
+Code: BY002019, Coordinates: 52.715, 31.294
+
+
+### Zhitkovichi
+
+Code: BY002020, Coordinates: 52.155, 27.808
+
+
+### Zhlobin
+
+Code: BY002021, Coordinates: 52.788, 29.963
+
+

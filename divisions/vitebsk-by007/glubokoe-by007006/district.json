@@ -1,0 +1,45 @@
+{
+  "id": "BY007006",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Glubokoe",
+    "en": "Glubokoe",
+    "slug": "glubokoe-by007006"
+  },
+  "code": {
+    "id": "BY007006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY007",
+    "level": 1,
+    "name": {
+      "local": "Віцебская",
+      "en": "Vitebsk",
+      "slug": "vitebsk-by007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY007",
+      "level": 1,
+      "name": {
+        "local": "Віцебская",
+        "en": "Vitebsk",
+        "slug": "vitebsk-by007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.11",
+    "lon": "27.738"
+  },
+  "metadata": {},
+  "source": {}
+}

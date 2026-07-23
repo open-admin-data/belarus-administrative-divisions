@@ -1,0 +1,45 @@
+{
+  "id": "BY001008",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kamenec",
+    "en": "Kamenec",
+    "slug": "kamenec-by001008"
+  },
+  "code": {
+    "id": "BY001008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY001",
+    "level": 1,
+    "name": {
+      "local": "Брэсцкая",
+      "en": "Brest",
+      "slug": "brest-by001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY001",
+      "level": 1,
+      "name": {
+        "local": "Брэсцкая",
+        "en": "Brest",
+        "slug": "brest-by001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.44",
+    "lon": "23.69"
+  },
+  "metadata": {},
+  "source": {}
+}

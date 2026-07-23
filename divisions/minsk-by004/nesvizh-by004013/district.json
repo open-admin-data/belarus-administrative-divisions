@@ -1,0 +1,45 @@
+{
+  "id": "BY004013",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nesvizh",
+    "en": "Nesvizh",
+    "slug": "nesvizh-by004013"
+  },
+  "code": {
+    "id": "BY004013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.232",
+    "lon": "26.641"
+  },
+  "metadata": {},
+  "source": {}
+}

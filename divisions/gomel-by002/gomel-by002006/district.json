@@ -1,0 +1,45 @@
+{
+  "id": "BY002006",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gomel",
+    "en": "Gomel",
+    "slug": "gomel-by002006"
+  },
+  "code": {
+    "id": "BY002006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY002",
+    "level": 1,
+    "name": {
+      "local": "Гомельская",
+      "en": "Gomel",
+      "slug": "gomel-by002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY002",
+      "level": 1,
+      "name": {
+        "local": "Гомельская",
+        "en": "Gomel",
+        "slug": "gomel-by002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.325",
+    "lon": "31.114"
+  },
+  "metadata": {},
+  "source": {}
+}

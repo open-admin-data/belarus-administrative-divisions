@@ -1,0 +1,45 @@
+{
+  "id": "BY006012",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Klimovichi",
+    "en": "Klimovichi",
+    "slug": "klimovichi-by006012"
+  },
+  "code": {
+    "id": "BY006012",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY006",
+    "level": 1,
+    "name": {
+      "local": "Магілёўская",
+      "en": "Mogilev",
+      "slug": "mogilev-by006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.623",
+    "lon": "32.079"
+  },
+  "metadata": {},
+  "source": {}
+}

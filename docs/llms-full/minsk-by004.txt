@@ -1,0 +1,119 @@
+# Minsk — Belarus Administrative Divisions
+
+> 22 districts
+> Code: BY004
+> Coordinates: 53.688, 27.819
+> Last updated: 2026-07-23. License: CC-BY-4.0.
+
+## Districts
+
+### Berezino
+
+Code: BY004001, Coordinates: 53.821, 29.092
+
+
+### Borisov
+
+Code: BY004002, Coordinates: 54.307, 28.545
+
+
+### Cherven
+
+Code: BY004003, Coordinates: 53.757, 28.522
+
+
+### Dzerzhinsk
+
+Code: BY004004, Coordinates: 53.675, 27.269
+
+
+### Kletsk
+
+Code: BY004005, Coordinates: 52.915, 26.684
+
+
+### Kopyl
+
+Code: BY004006, Coordinates: 53.075, 27.154
+
+
+### Krupki
+
+Code: BY004007, Coordinates: 54.334, 29.163
+
+
+### Logojsk
+
+Code: BY004008, Coordinates: 54.391, 27.855
+
+
+### Lyuban
+
+Code: BY004009, Coordinates: 52.728, 28.09
+
+
+### Minsk
+
+Code: BY004010, Coordinates: 53.926, 27.358
+
+
+### Mjadel
+
+Code: BY004011, Coordinates: 54.785, 27.006
+
+
+### Molodechno
+
+Code: BY004012, Coordinates: 54.244, 26.866
+
+
+### Nesvizh
+
+Code: BY004013, Coordinates: 53.232, 26.641
+
+
+### Puhovichi
+
+Code: BY004014, Coordinates: 53.47, 28.021
+
+
+### Slutsk
+
+Code: BY004015, Coordinates: 53.117, 27.816
+
+
+### Smolevichi
+
+Code: BY004016, Coordinates: 53.982, 28.254
+
+
+### Soligorsk
+
+Code: BY004017, Coordinates: 52.657, 27.578
+
+
+### St.Dorogi
+
+Code: BY004018, Coordinates: 53.064, 28.298
+
+
+### Stolbtsy
+
+Code: BY004019, Coordinates: 53.603, 26.732
+
+
+### Uzda
+
+Code: BY004020, Coordinates: 53.474, 27.41
+
+
+### Vilejka
+
+Code: BY004021, Coordinates: 54.486, 27.094
+
+
+### Volozhin
+
+Code: BY004022, Coordinates: 54.02, 26.757
+
+

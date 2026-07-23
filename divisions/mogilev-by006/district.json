@@ -1,0 +1,947 @@
+[
+  {
+    "id": "BY006001",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belynichi",
+      "en": "Belynichi",
+      "slug": "belynichi-by006001"
+    },
+    "code": {
+      "id": "BY006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.886",
+      "lon": "29.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006002",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bobrujsk",
+      "en": "Bobrujsk",
+      "slug": "bobrujsk-by006002"
+    },
+    "code": {
+      "id": "BY006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.067",
+      "lon": "29.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006003",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Byhov",
+      "en": "Byhov",
+      "slug": "byhov-by006003"
+    },
+    "code": {
+      "id": "BY006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.463",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006004",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chausy",
+      "en": "Chausy",
+      "slug": "chausy-by006004"
+    },
+    "code": {
+      "id": "BY006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.782",
+      "lon": "30.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006005",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cherikov",
+      "en": "Cherikov",
+      "slug": "cherikov-by006005"
+    },
+    "code": {
+      "id": "BY006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.62",
+      "lon": "31.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006006",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dribin",
+      "en": "Dribin",
+      "slug": "dribin-by006006"
+    },
+    "code": {
+      "id": "BY006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.041",
+      "lon": "30.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006007",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glusk",
+      "en": "Glusk",
+      "slug": "glusk-by006007"
+    },
+    "code": {
+      "id": "BY006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.886",
+      "lon": "28.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006008",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gorki",
+      "en": "Gorki",
+      "slug": "gorki-by006008"
+    },
+    "code": {
+      "id": "BY006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.281",
+      "lon": "30.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006009",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hotimsk",
+      "en": "Hotimsk",
+      "slug": "hotimsk-by006009"
+    },
+    "code": {
+      "id": "BY006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.408",
+      "lon": "32.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006010",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kirovsk",
+      "en": "Kirovsk",
+      "slug": "kirovsk-by006010"
+    },
+    "code": {
+      "id": "BY006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.322",
+      "lon": "29.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006011",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Klichev",
+      "en": "Klichev",
+      "slug": "klichev-by006011"
+    },
+    "code": {
+      "id": "BY006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.462",
+      "lon": "29.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006012",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Klimovichi",
+      "en": "Klimovichi",
+      "slug": "klimovichi-by006012"
+    },
+    "code": {
+      "id": "BY006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.623",
+      "lon": "32.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006013",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kostyukovichi",
+      "en": "Kostyukovichi",
+      "slug": "kostyukovichi-by006013"
+    },
+    "code": {
+      "id": "BY006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.299",
+      "lon": "32.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006014",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krasnopole",
+      "en": "Krasnopole",
+      "slug": "krasnopole-by006014"
+    },
+    "code": {
+      "id": "BY006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.286",
+      "lon": "31.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006015",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krichev",
+      "en": "Krichev",
+      "slug": "krichev-by006015"
+    },
+    "code": {
+      "id": "BY006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.731",
+      "lon": "31.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006016",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krugloe",
+      "en": "Krugloe",
+      "slug": "krugloe-by006016"
+    },
+    "code": {
+      "id": "BY006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.173",
+      "lon": "29.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006017",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mogilev",
+      "en": "Mogilev",
+      "slug": "mogilev-by006017"
+    },
+    "code": {
+      "id": "BY006017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.84",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006018",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mstislav",
+      "en": "Mstislav",
+      "slug": "mstislav-by006018"
+    },
+    "code": {
+      "id": "BY006018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.027",
+      "lon": "31.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006019",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Osipovichi",
+      "en": "Osipovichi",
+      "slug": "osipovichi-by006019"
+    },
+    "code": {
+      "id": "BY006019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.325",
+      "lon": "28.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006020",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shklov",
+      "en": "Shklov",
+      "slug": "shklov-by006020"
+    },
+    "code": {
+      "id": "BY006020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.173",
+      "lon": "30.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BY006021",
+    "level": 2,
+    "level_name": {
+      "local": "Раён",
+      "en": "District"
+    },
+    "name": {
+      "local": "Slavgorod",
+      "en": "Slavgorod",
+      "slug": "slavgorod-by006021"
+    },
+    "code": {
+      "id": "BY006021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BY006",
+      "level": 1,
+      "name": {
+        "local": "Магілёўская",
+        "en": "Mogilev",
+        "slug": "mogilev-by006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BY006",
+        "level": 1,
+        "name": {
+          "local": "Магілёўская",
+          "en": "Mogilev",
+          "slug": "mogilev-by006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.487",
+      "lon": "30.968"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

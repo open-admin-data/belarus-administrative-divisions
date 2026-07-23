@@ -1,0 +1,33 @@
+{
+  "id": "BY007",
+  "level": 1,
+  "level_name": {
+    "local": "Вобласць",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Віцебская",
+    "en": "Vitebsk",
+    "slug": "vitebsk-by007"
+  },
+  "code": {
+    "id": "BY007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.192",
+    "lon": "28.822"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/by/regions/vitebsk-by007/",
+    "api": "https://openadmindata.org/api/by/"
+  }
+}

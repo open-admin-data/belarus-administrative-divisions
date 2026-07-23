@@ -1,0 +1,33 @@
+{
+  "id": "BY001",
+  "level": 1,
+  "level_name": {
+    "local": "Вобласць",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Брэсцкая",
+    "en": "Brest",
+    "slug": "brest-by001"
+  },
+  "code": {
+    "id": "BY001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.442",
+    "lon": "25.197"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/by/regions/brest-by001/",
+    "api": "https://openadmindata.org/api/by/"
+  }
+}

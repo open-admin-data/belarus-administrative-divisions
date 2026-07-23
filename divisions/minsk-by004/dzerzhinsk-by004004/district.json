@@ -1,0 +1,45 @@
+{
+  "id": "BY004004",
+  "level": 2,
+  "level_name": {
+    "local": "Раён",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dzerzhinsk",
+    "en": "Dzerzhinsk",
+    "slug": "dzerzhinsk-by004004"
+  },
+  "code": {
+    "id": "BY004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BY004",
+    "level": 1,
+    "name": {
+      "local": "Мінская",
+      "en": "Minsk",
+      "slug": "minsk-by004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BY004",
+      "level": 1,
+      "name": {
+        "local": "Мінская",
+        "en": "Minsk",
+        "slug": "minsk-by004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.675",
+    "lon": "27.269"
+  },
+  "metadata": {},
+  "source": {}
+}
