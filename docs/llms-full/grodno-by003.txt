@@ -3,7 +3,7 @@
 > 17 districts
 > Code: BY003
 > Coordinates: 53.861, 24.884
-> Last updated: 2026-07-23. License: CC-BY-4.0.
+> Last updated: 2026-07-24. License: CC-BY-4.0.
 
 ## Districts
 
