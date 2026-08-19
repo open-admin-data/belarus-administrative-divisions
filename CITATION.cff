@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Belarus Administrative Divisions Dataset"
-version: "2026.07"
-date-released: "2026-07-24"
+version: "2026.08"
+date-released: "2026-08-19"
 url: "https://github.com/open-admin-data/belarus-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/belarus-administrative-divisions"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@
 > 22 districts
 > Code: BY004
 > Coordinates: 53.688, 27.819
-> Last updated: 2026-07-24. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
